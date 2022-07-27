@@ -12,6 +12,7 @@ function Main(){
                 <div className="search">
                     <input type="text" placeholder="Enter The Book's Name" />
                     <button><i class="fa fa-search" aria-hidden="true"></i></button>
+                    <img src="./images/bg2.png" />
                 </div>
             </div>
            </div> 
