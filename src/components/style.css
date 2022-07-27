@@ -83,3 +83,10 @@ html{
     font-size: 15px;
     font-weight: bold;
 }
+
+.row2 .search button{
+    outline: none;
+    border: none;
+    height: 35px;
+    padding: 0 0.5rem;
+}
