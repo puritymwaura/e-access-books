@@ -1,26 +1,38 @@
 import React from "react";
+import { useState } from "react";
+import Modal from "./Modal";
+
 
 function Card({book}){
+    const [show,setShow]=useState(false);
+    const [bookItem,setItem]=useState();
     console.log(book)
-    return(
+    return (
         <div>
-        {
-            book.map((item)=>{
-                let thumbnail = item.volumeInfo.imageLinks && item.volumeInfo.imageLinks.smallThumbnail;
-                return(
-                    <div>
-                        <div className="card">
-                            <img src={thumbnail} alt=" " />
-                            <div className="bottom">
-                                <h3 className="title">React Js</h3>
-                                <p className="amount">&#36;2290</p>
+            {
+                book.map((item) => {
+                    let thumbnail=item.volumeInfo.imageLinks && item.volumeInfo.imageLinks.smallThumbnail;
+                    let amount=item.saleInfo.listPrice && item.saleInfo.listPrice.amount;
+                    if(thumbnail!== undefined && amount !== undefined)
+                    {
+                        return (
+                            <div>
+                            <div className="card" onClick={()=>{setShow(true);setItem(item)}}>
+                                <img src={thumbnail} alt="" />
+                                <div className="bottom">
+                                    <h3 className="title">{item.volumeInfo.title}</h3>
+                                    <p className="amount">&#8377;{amount}</p>
+                                </div>
                             </div>
-                        </div>
-                    </div>
-                )
-            })
-        }
-    </div>    
+                              <Modal show={show} item={bookItem} onClose={()=>setShow(false)} />
+                            </div>
+                        )
+                    }
+                    
+                })
+            }
+
+        </div> 
     )
 }
 
