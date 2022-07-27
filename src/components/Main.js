@@ -1,4 +1,5 @@
 import React from "react";
+import Card from "./Card";
 
 function Main(){
     return(
@@ -16,6 +17,10 @@ function Main(){
                 <img src="./images/bg2.png" alt=" " />
             </div>
            </div> 
+
+           <div className="container">
+            <Card />
+           </div>
         </div>
     )
 }
