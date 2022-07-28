@@ -5,6 +5,7 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    text-decoration: none;
 }
 
 :root{
@@ -203,3 +204,82 @@ html{
     text-align: justify;
     font-size: 13px;
 }
+
+.welcome{
+    width: 100%;
+    height: 100vh;
+    color: var(--secondary-color);
+    box-shadow: 0 5px 10px var(--secondary-color);
+    display: flex;
+    align-items: center;
+    position: relative;
+    justify-content: space-between;
+}
+
+.welcome::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(./bg1.png);
+    clip-path: circle(60% at left 300px);
+    z-index: -1;
+}
+
+.welcomeText h1{
+    font-size: 3rem;
+    text-align: center;
+    margin-left: 35px;
+    font-family: 'Tangerine', sans-serif;
+    font-weight: 900;
+}
+
+.welcome .getstarted{
+    margin-right: 120px;
+}
+
+.welcome .getstarted img{
+    width: 250px;
+}
+
+.welcome .getstarted p{
+    text-align: center;
+}
+
+.welcome .getstarted button{
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: var(--secondary-color);
+}
+
+.welcome .getstarted button:hover{
+    background: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+/* 
+.welcome{
+    position: absolute;
+    top: 10px;
+    right: 150px;
+    text-align: center;
+}
+
+/* .welcome .getstarted{
+    margin-left: 50%;
+} */
+/* 
+.welcome .getstarted h2{
+    font-size: 3rem;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+*/
+/*
+.welcome .getstarted img{
+    margin-top: 30px;
+    width: 250px;
+}  */
