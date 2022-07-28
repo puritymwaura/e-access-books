@@ -3,8 +3,6 @@
         {
           "kind": "books#volume",
           "id": "I4C7AAAAIAAJ",
-          "etag": "gnW/1HzzN+0",
-          "selfLink": "https://www.googleapis.com/books/v1/volumes/I4C7AAAAIAAJ",
           "volumeInfo": {
             "title": "Search and Seizure",
             "subtitle": "A Statement of the Current Principles and Their Application",
@@ -12,12 +10,6 @@
               "California. Office of the Attorney General"
             ],
             "publishedDate": "1969",
-            "industryIdentifiers": [
-              {
-                "type": "OTHER",
-                "identifier": "UCAL:B4181724"
-              }
-            ],
             "readingModes": {
               "text": false,
               "image": false
@@ -26,26 +18,15 @@
             "categories": [
               "Searches and seizures"
             ],
-            "maturityRating": "NOT_MATURE",
-            "allowAnonLogging": false,
-            "contentVersion": "0.2.2.0.preview.0",
-            "panelizationSummary": {
-              "containsEpubBubbles": false,
-              "containsImageBubbles": false
-            },
-            "imageLinks": {
               "smallThumbnail": "http://books.google.com/books/content?id=I4C7AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-              "thumbnail": "http://books.google.com/books/content?id=I4C7AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-            },
-            "language": "en",
-            "previewLink": "http://books.google.com/books?id=I4C7AAAAIAAJ&q=%27+search+%27&dq=%27+search+%27&hl=&cd=1&source=gbs_api",
-            "infoLink": "http://books.google.com/books?id=I4C7AAAAIAAJ&dq=%27+search+%27&hl=&source=gbs_api",
-            "canonicalVolumeLink": "https://books.google.com/books/about/Search_and_Seizure.html?hl=&id=I4C7AAAAIAAJ"
+              "thumbnail": "http://books.google.com/books/content?id=I4C7AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+                "language": "en"
           },
           "saleInfo": {
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "isEbook": false,
+            "listPrice": 122
           },
           "accessInfo": {
             "country": "KE",
@@ -70,8 +51,6 @@
         {
           "kind": "books#volume",
           "id": "4tlHAQAAIAAJ",
-          "etag": "LZO2hhroWMM",
-          "selfLink": "https://www.googleapis.com/books/v1/volumes/4tlHAQAAIAAJ",
           "volumeInfo": {
             "title": "Search and Seizure",
             "authors": [
@@ -136,8 +115,6 @@
         {
           "kind": "books#volume",
           "id": "-TwQAQAAMAAJ",
-          "etag": "wcwx7ZQOm3c",
-          "selfLink": "https://www.googleapis.com/books/v1/volumes/-TwQAQAAMAAJ",
           "volumeInfo": {
             "title": "Principles and Cases of the Law of Arrest, Search, and Seizure",
             "authors": [
@@ -205,8 +182,6 @@
         {
           "kind": "books#volume",
           "id": "iQBaH9YCPgAC",
-          "etag": "22RHlQAn3sg",
-          "selfLink": "https://www.googleapis.com/books/v1/volumes/iQBaH9YCPgAC",
           "volumeInfo": {
             "title": "Collaborative Web Search",
             "subtitle": "Who, What, Where, When, and why",
@@ -282,8 +257,6 @@
         {
           "kind": "books#volume",
           "id": "w7wwBQAAQBAJ",
-          "etag": "Z0u56y8qCT4",
-          "selfLink": "https://www.googleapis.com/books/v1/volumes/w7wwBQAAQBAJ",
           "volumeInfo": {
             "title": "Smart Search",
             "subtitle": "Quickly and Easily Find What You Need !",
@@ -342,8 +315,6 @@
         {
           "kind": "books#volume",
           "id": "_mNtAAAAMAAJ",
-          "etag": "k5klTdUK7mM",
-          "selfLink": "https://www.googleapis.com/books/v1/volumes/_mNtAAAAMAAJ",
           "volumeInfo": {
             "title": "Search Reference Guide",
             "publishedDate": "1990",
@@ -408,8 +379,6 @@
         {
           "kind": "books#volume",
           "id": "Dx6hBwAAQBAJ",
-          "etag": "nEE1RpRjvso",
-          "selfLink": "https://www.googleapis.com/books/v1/volumes/Dx6hBwAAQBAJ",
           "volumeInfo": {
             "title": "The Search for Fundamentals",
             "subtitle": "The Process of Modernisation and the Quest for Meaning",
@@ -486,8 +455,6 @@
         {
           "kind": "books#volume",
           "id": "Nf7sDwAAQBAJ",
-          "etag": "u50Rvez9L7s",
-          "selfLink": "https://www.googleapis.com/books/v1/volumes/Nf7sDwAAQBAJ",
           "volumeInfo": {
             "title": "Applications of Cuckoo Search Algorithm and its Variants",
             "authors": [
@@ -561,8 +528,6 @@
         {
           "kind": "books#volume",
           "id": "nOGGDwAAQBAJ",
-          "etag": "bgUN8Nk0jQA",
-          "selfLink": "https://www.googleapis.com/books/v1/volumes/nOGGDwAAQBAJ",
           "volumeInfo": {
             "title": "Toronto Interactive Restaurant Wine City Search",
             "subtitle": "Searching in 10 languages",
@@ -637,8 +602,6 @@
         {
           "kind": "books#volume",
           "id": "JFs7AAAAMAAJ",
-          "etag": "gg23/W4X8WE",
-          "selfLink": "https://www.googleapis.com/books/v1/volumes/JFs7AAAAMAAJ",
           "volumeInfo": {
             "title": "User's Guide to Online Searching of SCISEARCH and SOCIAL SCISEARCH",
             "authors": [
