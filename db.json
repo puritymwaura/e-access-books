@@ -4320,6 +4320,1414 @@
                   "searchInfo": {
                   "textSnippet": "Tim Converse, Joyce Park. ∞--No No ~♥~,~(_)__) Chapter 75 Basic <b>PHP</b> Gotchas In This Chapter Installation-related problems."
                   }
-                  }
+                  },
+                  {
+                    "kind": "books#volume",
+                    "id": "2LulngEACAAJ",
+                    "etag": "mXbskPq1QRs",
+                    "selfLink": "https://www.googleapis.com/books/v1/volumes/2LulngEACAAJ",
+                    "volumeInfo": {
+                    "title": "Programming Ruby 1.9 & 2.0",
+                    "subtitle": "The Pragmatic Programmers' Guide",
+                    "authors": [
+                    "David Thomas",
+                    "Chad Fowler",
+                    "Andrew Hunt"
+                    ],
+                    "publishedDate": "2013",
+                    "description": "Summary: Ruby 1.9 was a major release of the language: it introduced multinationalization, new block syntax and scoping rules, a new, faster, virtual machine, and hundreds of new methods in dozens of new classes and modules. Ruby 2.0 is less radical--it has keyword arguments, a new regexp engine, and some library changes. This book describes it all. The first quarter of the book is a tutorial introduction that gets you up to speed with the Ruby language and the most important classes and libraries. Download and play with the hundreds of code samples as your experiment with the language. The second section looks at real-world Ruby, covering the Ruby environment, how to package, document, and distribute code, and how to work with encodings. The third part of the book is more advanced. In it, you'll find a full description of the language, an explanation of duck typing, and a detailed description of the Ruby object model and metaprogramming. The book ends with a reference section: comprehensive and detailed documentation of Ruby's libraries. You'll find descriptions and examples of more than 1,300 methods in 58 built-in classes and modules, along with brief descriptions of 97 standard libraries. Ruby makes your programming more productive; it makes coding fun again. And this book will get you up to speed with the very latest Ruby, quickly and enjoyably.",
+                    "industryIdentifiers": [
+                    {
+                    "type": "ISBN_10",
+                    "identifier": "1937785491"
+                    },
+                    {
+                    "type": "ISBN_13",
+                    "identifier": "9781937785499"
+                    }
+                    ],
+                    "readingModes": {
+                    "text": false,
+                    "image": false
+                    },
+                    "pageCount": 863,
+                    "printType": "BOOK",
+                    "categories": [
+                    "Computers"
+                    ],
+                    "averageRating": 4.5,
+                    "ratingsCount": 4,
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "preview-1.0.0",
+                    "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=2LulngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=2LulngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.com/books?id=2LulngEACAAJ&dq=ruby&hl=&cd=1&source=gbs_api",
+                    "infoLink": "http://books.google.com/books?id=2LulngEACAAJ&dq=ruby&hl=&source=gbs_api",
+                    "canonicalVolumeLink": "https://books.google.com/books/about/Programming_Ruby_1_9_2_0.html?hl=&id=2LulngEACAAJ"
+                    },
+                    "saleInfo": {
+                    "country": "KE",
+                    "saleability": "NOT_FOR_SALE",
+                    "isEbook": false
+                    },
+                    "accessInfo": {
+                    "country": "KE",
+                    "viewability": "NO_PAGES",
+                    "embeddable": false,
+                    "publicDomain": false,
+                    "textToSpeechPermission": "ALLOWED",
+                    "epub": {
+                    "isAvailable": false
+                    },
+                    "pdf": {
+                    "isAvailable": false
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=2LulngEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "NONE",
+                    "quoteSharingAllowed": false
+                    },
+                    "searchInfo": {
+                    "textSnippet": "This book describes it all. The first quarter of the book is a tutorial introduction that gets you up to speed with the Ruby language and the most important classes and libraries."
+                    }
+                    },
+                    {
+                    "kind": "books#volume",
+                    "id": "AGj9jrD87uUC",
+                    "etag": "lIn4rfSnC1A",
+                    "selfLink": "https://www.googleapis.com/books/v1/volumes/AGj9jrD87uUC",
+                    "volumeInfo": {
+                    "title": "Ruby",
+                    "subtitle": "The Programming Language",
+                    "authors": [
+                    "Jules J. Berman"
+                    ],
+                    "publisher": "Jones & Bartlett Learning",
+                    "publishedDate": "2008-02-14",
+                    "description": "An ideal companion to many introductory computer science courses, as well as an excellent primer, Ruby: The Programming Language offers an accessible introduction to this easy to learn, open-source language. This overview describes the fundamentals of the object-oriented Ruby language and discusses how students can quickly construct complete web applications with ease. Ruby: The Programming Language will excite students on the capabilities of computer programming and inspire them to delve deeper into the computer science discipline.",
+                    "industryIdentifiers": [
+                    {
+                    "type": "ISBN_13",
+                    "identifier": "9780763757571"
+                    },
+                    {
+                    "type": "ISBN_10",
+                    "identifier": "0763757578"
+                    }
+                    ],
+                    "readingModes": {
+                    "text": false,
+                    "image": true
+                    },
+                    "pageCount": 45,
+                    "printType": "BOOK",
+                    "categories": [
+                    "Computers"
+                    ],
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "preview-1.0.0",
+                    "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=AGj9jrD87uUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=AGj9jrD87uUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.com/books?id=AGj9jrD87uUC&printsec=frontcover&dq=ruby&hl=&cd=2&source=gbs_api",
+                    "infoLink": "http://books.google.com/books?id=AGj9jrD87uUC&dq=ruby&hl=&source=gbs_api",
+                    "canonicalVolumeLink": "https://books.google.com/books/about/Ruby.html?hl=&id=AGj9jrD87uUC"
+                    },
+                    "saleInfo": {
+                    "country": "KE",
+                    "saleability": "NOT_FOR_SALE",
+                    "isEbook": false
+                    },
+                    "accessInfo": {
+                    "country": "KE",
+                    "viewability": "PARTIAL",
+                    "embeddable": true,
+                    "publicDomain": false,
+                    "textToSpeechPermission": "ALLOWED",
+                    "epub": {
+                    "isAvailable": false
+                    },
+                    "pdf": {
+                    "isAvailable": false
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=AGj9jrD87uUC&hl=&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "SAMPLE",
+                    "quoteSharingAllowed": false
+                    },
+                    "searchInfo": {
+                    "textSnippet": "Ruby: The Programming Language will excite students on the capabilities of computer programming and inspire them to delve deeper into the computer science discipline."
+                    }
+                    },
+                    {
+                    "kind": "books#volume",
+                    "id": "axCifIsy3EgC",
+                    "etag": "GVlqnEG5G8Y",
+                    "selfLink": "https://www.googleapis.com/books/v1/volumes/axCifIsy3EgC",
+                    "volumeInfo": {
+                    "title": "Ruby Lu, Empress of Everything",
+                    "authors": [
+                    "Lenore Look",
+                    "Anne Wilsdorf"
+                    ],
+                    "publisher": "Simon and Schuster",
+                    "publishedDate": "2007-09-25",
+                    "description": "After Ruby Lu's deaf cousin, Flying Duck, and her parents come from China to live with her, Ruby finds life challenging as she adjusts to her new family, tries to mend her rocky relationship with her friend Emma, and faces summer school.",
+                    "industryIdentifiers": [
+                    {
+                    "type": "ISBN_13",
+                    "identifier": "9781416950035"
+                    },
+                    {
+                    "type": "ISBN_10",
+                    "identifier": "1416950036"
+                    }
+                    ],
+                    "readingModes": {
+                    "text": false,
+                    "image": false
+                    },
+                    "pageCount": 176,
+                    "printType": "BOOK",
+                    "categories": [
+                    "Juvenile Fiction"
+                    ],
+                    "averageRating": 3,
+                    "ratingsCount": 5,
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "preview-1.0.0",
+                    "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=axCifIsy3EgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=axCifIsy3EgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.com/books?id=axCifIsy3EgC&printsec=frontcover&dq=ruby&hl=&cd=3&source=gbs_api",
+                    "infoLink": "http://books.google.com/books?id=axCifIsy3EgC&dq=ruby&hl=&source=gbs_api",
+                    "canonicalVolumeLink": "https://books.google.com/books/about/Ruby_Lu_Empress_of_Everything.html?hl=&id=axCifIsy3EgC"
+                    },
+                    "saleInfo": {
+                    "country": "KE",
+                    "saleability": "NOT_FOR_SALE",
+                    "isEbook": false
+                    },
+                    "accessInfo": {
+                    "country": "KE",
+                    "viewability": "PARTIAL",
+                    "embeddable": true,
+                    "publicDomain": false,
+                    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+                    "epub": {
+                    "isAvailable": false
+                    },
+                    "pdf": {
+                    "isAvailable": false
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=axCifIsy3EgC&hl=&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "SAMPLE",
+                    "quoteSharingAllowed": false
+                    },
+                    "searchInfo": {
+                    "textSnippet": "After Ruby Lu&#39;s deaf cousin, Flying Duck, and her parents come from China to live with her, Ruby finds life challenging as she adjusts to her new family, tries to mend her rocky relationship with her friend Emma, and faces summer school."
+                    }
+                    },
+                    {
+                    "kind": "books#volume",
+                    "id": "QdiaySAj3RQC",
+                    "etag": "FqRwB0JYZjI",
+                    "selfLink": "https://www.googleapis.com/books/v1/volumes/QdiaySAj3RQC",
+                    "volumeInfo": {
+                    "title": "Ruby Keeler",
+                    "subtitle": "A Photographic Biography",
+                    "authors": [
+                    "Nancy Marlow-Trump"
+                    ],
+                    "publisher": "McFarland",
+                    "publishedDate": "1998-01-01",
+                    "description": "You're going out a youngster, but you've got to come back a star, Warner Baxter told Ruby Keeler in the 1933 film 42nd Street. The actor's scripted words would prove prophetic. The film propelled her to stardom. Ruby Keeler's rags-to-riches story is told in this pictorial biography (with text as well). Born on August 25, 1910 in Halifax, Nova Scotia, her father an iceman, her family moved to New York City in 1912. Soon enrolled in the Professional Children's School, she got her first taste of life on the stage, eventually finding her way to Broadway. Her dancing brought her the pivotal role in 42nd Street and she was soon one of the most popular actresses in Hollywood. Her performance in No, No, Nanette in 1971, her first Broadway show in 41 years, met with rave reviews. Keeler's life, including her ill-fated marriage to performer Al Jolson, is recounted here, with many never-before-seen photographs.",
+                    "industryIdentifiers": [
+                    {
+                    "type": "ISBN_10",
+                    "identifier": "0786405244"
+                    },
+                    {
+                    "type": "ISBN_13",
+                    "identifier": "9780786405244"
+                    }
+                    ],
+                    "readingModes": {
+                    "text": false,
+                    "image": true
+                    },
+                    "pageCount": 169,
+                    "printType": "BOOK",
+                    "categories": [
+                    "Biography & Autobiography"
+                    ],
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "0.3.3.0.preview.1",
+                    "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                    },
+                    "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=QdiaySAj3RQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=QdiaySAj3RQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.com/books?id=QdiaySAj3RQC&pg=PA4&dq=ruby&hl=&cd=4&source=gbs_api",
+                    "infoLink": "http://books.google.com/books?id=QdiaySAj3RQC&dq=ruby&hl=&source=gbs_api",
+                    "canonicalVolumeLink": "https://books.google.com/books/about/Ruby_Keeler.html?hl=&id=QdiaySAj3RQC"
+                    },
+                    "saleInfo": {
+                    "country": "KE",
+                    "saleability": "NOT_FOR_SALE",
+                    "isEbook": false
+                    },
+                    "accessInfo": {
+                    "country": "KE",
+                    "viewability": "PARTIAL",
+                    "embeddable": true,
+                    "publicDomain": false,
+                    "textToSpeechPermission": "ALLOWED",
+                    "epub": {
+                    "isAvailable": false
+                    },
+                    "pdf": {
+                    "isAvailable": false
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=QdiaySAj3RQC&hl=&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "SAMPLE",
+                    "quoteSharingAllowed": false
+                    },
+                    "searchInfo": {
+                    "textSnippet": "YOU&#39;RE GOING OUT A YOUNGSTER , but you&#39;ve got to come back a star , ” Warner Baxter told <b>Ruby</b> Keeler in the 1933 smash film hit 42nd Street . Little did Baxter know that his scripted words were uncannily prophetic ."
+                    }
+                    },
+                    {
+                    "kind": "books#volume",
+                    "id": "9fsoAQAAMAAJ",
+                    "etag": "dldFxZCppGA",
+                    "selfLink": "https://www.googleapis.com/books/v1/volumes/9fsoAQAAMAAJ",
+                    "volumeInfo": {
+                    "title": "Ruby in Practice",
+                    "authors": [
+                    "Jeremy McAnally",
+                    "Assaf Arkin",
+                    "Yehuda Katz"
+                    ],
+                    "publisher": "Manning Publications Company",
+                    "publishedDate": "2009",
+                    "description": "A guide to Ruby programming covers such topics as scripting, Web services, asynchronous messaging, structured documents, and searching and indexing.",
+                    "industryIdentifiers": [
+                    {
+                    "type": "OTHER",
+                    "identifier": "UOM:39076002800733"
+                    }
+                    ],
+                    "readingModes": {
+                    "text": false,
+                    "image": false
+                    },
+                    "pageCount": 335,
+                    "printType": "BOOK",
+                    "categories": [
+                    "Computers"
+                    ],
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "0.4.1.0.preview.0",
+                    "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                    },
+                    "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=9fsoAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=9fsoAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.com/books?id=9fsoAQAAMAAJ&q=ruby&dq=ruby&hl=&cd=5&source=gbs_api",
+                    "infoLink": "http://books.google.com/books?id=9fsoAQAAMAAJ&dq=ruby&hl=&source=gbs_api",
+                    "canonicalVolumeLink": "https://books.google.com/books/about/Ruby_in_Practice.html?hl=&id=9fsoAQAAMAAJ"
+                    },
+                    "saleInfo": {
+                    "country": "KE",
+                    "saleability": "NOT_FOR_SALE",
+                    "isEbook": false
+                    },
+                    "accessInfo": {
+                    "country": "KE",
+                    "viewability": "NO_PAGES",
+                    "embeddable": false,
+                    "publicDomain": false,
+                    "textToSpeechPermission": "ALLOWED",
+                    "epub": {
+                    "isAvailable": false
+                    },
+                    "pdf": {
+                    "isAvailable": false
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=9fsoAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "NONE",
+                    "quoteSharingAllowed": false
+                    },
+                    "searchInfo": {
+                    "textSnippet": "<b>RUBY RUBY</b> in PRActice Jeremy McAnally - Assaf Arkin - with Yehuda Katz, David Black, Gregory Brown, Peter Cooper, and Luke Melid ike <b>Ruby</b> itself, <b>Ruby</b> in Practice will make you more productive. The book shows you practical techniques&nbsp;..."
+                    }
+                    },
+                    {
+                    "kind": "books#volume",
+                    "id": "DopXkPKzOUAC",
+                    "etag": "YEMs08FrZAs",
+                    "selfLink": "https://www.googleapis.com/books/v1/volumes/DopXkPKzOUAC",
+                    "volumeInfo": {
+                    "title": "Wicked Cool Ruby Scripts",
+                    "subtitle": "Useful Scripts that Solve Difficult Problems",
+                    "authors": [
+                    "Steve Pugh"
+                    ],
+                    "publisher": "No Starch Press",
+                    "publishedDate": "2009",
+                    "description": "Contains fifty-eight Ruby scripts to solve a variety of problems for system administration, image manipulation, and management of a Website.",
+                    "industryIdentifiers": [
+                    {
+                    "type": "ISBN_13",
+                    "identifier": "9781593271824"
+                    },
+                    {
+                    "type": "ISBN_10",
+                    "identifier": "1593271824"
+                    }
+                    ],
+                    "readingModes": {
+                    "text": true,
+                    "image": true
+                    },
+                    "pageCount": 216,
+                    "printType": "BOOK",
+                    "categories": [
+                    "Computers"
+                    ],
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": true,
+                    "contentVersion": "0.2.5.0.preview.3",
+                    "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                    },
+                    "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=DopXkPKzOUAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=DopXkPKzOUAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.com/books?id=DopXkPKzOUAC&pg=PR22&dq=ruby&hl=&cd=6&source=gbs_api",
+                    "infoLink": "http://books.google.com/books?id=DopXkPKzOUAC&dq=ruby&hl=&source=gbs_api",
+                    "canonicalVolumeLink": "https://books.google.com/books/about/Wicked_Cool_Ruby_Scripts.html?hl=&id=DopXkPKzOUAC"
+                    },
+                    "saleInfo": {
+                    "country": "KE",
+                    "saleability": "NOT_FOR_SALE",
+                    "isEbook": false
+                    },
+                    "accessInfo": {
+                    "country": "KE",
+                    "viewability": "PARTIAL",
+                    "embeddable": true,
+                    "publicDomain": false,
+                    "textToSpeechPermission": "ALLOWED",
+                    "epub": {
+                    "isAvailable": true
+                    },
+                    "pdf": {
+                    "isAvailable": true
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=DopXkPKzOUAC&hl=&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "SAMPLE",
+                    "quoteSharingAllowed": false
+                    },
+                    "searchInfo": {
+                    "textSnippet": "<b>Ruby</b> is written in such a way that the syntax and programming flow is natural. I have found <b>Ruby</b> to be comfortable to work with because ofits natural syntax, wonderful community, and simplistic view of how programming should be."
+                    }
+                    },
+                    {
+                    "kind": "books#volume",
+                    "id": "lPeKDQAAQBAJ",
+                    "etag": "BVKQ5MSxav8",
+                    "selfLink": "https://www.googleapis.com/books/v1/volumes/lPeKDQAAQBAJ",
+                    "volumeInfo": {
+                    "title": "Ruby (Oprah's Book Club 2.0)",
+                    "authors": [
+                    "Cynthia Bond"
+                    ],
+                    "publisher": "Hogarth",
+                    "publishedDate": "2015-02-10",
+                    "description": "A New York Times bestseller and Oprah Book Club 2.0 selection, the epic, unforgettable story of a man determined to protect the woman he loves from the town desperate to destroy her. This beautiful and devastating debut heralds the arrival of a major new voice in fiction. Ephram Jennings has never forgotten the beautiful girl with the long braids running through the piney woods of Liberty, their small East Texas town. Young Ruby Bell, “the kind of pretty it hurt to look at,” has suffered beyond imagining, so as soon as she can, she flees suffocating Liberty for the bright pull of 1950s New York. Ruby quickly winds her way into the ripe center of the city—the darkened piano bars and hidden alleyways of the Village—all the while hoping for a glimpse of the red hair and green eyes of her mother. When a telegram from her cousin forces her to return home, thirty-year-old Ruby finds herself reliving the devastating violence of her girlhood. With the terrifying realization that she might not be strong enough to fight her way back out again, Ruby struggles to survive her memories of the town’s dark past. Meanwhile, Ephram must choose between loyalty to the sister who raised him and the chance for a life with the woman he has loved since he was a boy. Full of life, exquisitely written, and suffused with the pastoral beauty of the rural South, Ruby is a transcendent novel of passion and courage. This wondrous page-turner rushes through the red dust and gossip of Main Street, to the pit fire where men swill bootleg outside Bloom’s Juke, to Celia Jennings’s kitchen, where a cake is being made, yolk by yolk, that Ephram will use to try to begin again with Ruby. Utterly transfixing, with unforgettable characters, riveting suspense, and breathtaking, luminous prose, Ruby offers an unflinching portrait of man’s dark acts and the promise of the redemptive power of love. Ruby was a finalist for the PEN America Robert Bingham Debut Novel Award, a Barnes & Noble Discover Great New Writers selection, and an Indie Next Pick.",
+                    "industryIdentifiers": [
+                    {
+                    "type": "ISBN_13",
+                    "identifier": "9780804188241"
+                    },
+                    {
+                    "type": "ISBN_10",
+                    "identifier": "0804188246"
+                    }
+                    ],
+                    "readingModes": {
+                    "text": false,
+                    "image": false
+                    },
+                    "pageCount": 368,
+                    "printType": "BOOK",
+                    "categories": [
+                    "Fiction"
+                    ],
+                    "averageRating": 3.5,
+                    "ratingsCount": 93,
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "0.3.0.0.preview.0",
+                    "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                    },
+                    "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=lPeKDQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=lPeKDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.com/books?id=lPeKDQAAQBAJ&dq=ruby&hl=&cd=7&source=gbs_api",
+                    "infoLink": "http://books.google.com/books?id=lPeKDQAAQBAJ&dq=ruby&hl=&source=gbs_api",
+                    "canonicalVolumeLink": "https://books.google.com/books/about/Ruby_Oprah_s_Book_Club_2_0.html?hl=&id=lPeKDQAAQBAJ"
+                    },
+                    "saleInfo": {
+                    "country": "KE",
+                    "saleability": "NOT_FOR_SALE",
+                    "isEbook": false
+                    },
+                    "accessInfo": {
+                    "country": "KE",
+                    "viewability": "NO_PAGES",
+                    "embeddable": false,
+                    "publicDomain": false,
+                    "textToSpeechPermission": "ALLOWED",
+                    "epub": {
+                    "isAvailable": false
+                    },
+                    "pdf": {
+                    "isAvailable": false
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=lPeKDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "NONE",
+                    "quoteSharingAllowed": false
+                    },
+                    "searchInfo": {
+                    "textSnippet": "A New York Times bestseller and Oprah Book Club 2.0 selection, the epic, unforgettable story of a man determined to protect the woman he loves from the town desperate to destroy her."
+                    }
+                    },
+                    {
+                    "kind": "books#volume",
+                    "id": "kezbmCcGaaAC",
+                    "etag": "hXxiscFyRao",
+                    "selfLink": "https://www.googleapis.com/books/v1/volumes/kezbmCcGaaAC",
+                    "volumeInfo": {
+                    "title": "Ruby (Dakotah Treasures Book #1)",
+                    "authors": [
+                    "Lauraine Snelling"
+                    ],
+                    "publisher": "Bethany House",
+                    "publishedDate": "2003-08-01",
+                    "description": "A New Dakotah Territory Saga From Bestselling Author Lauraine Snelling! Book 1 of Dakotah Treasures. Author Lauraine Snelling once again takes readers west to the untamed land of Dakota Territory, introducing new characters both unique and appealing. Ruby Torvald and her young sister, Opal, have received an inheritance from their long-lost father who left home years ago to seek his fortune in the Black Hills. When they leave their comfortable situation in Chicago and arrive at the mining town of Medora to claim their inheritance, the sisters discover that rather than the legacy of gold they expected, their father has left them a shocking bequest. Ruby's bold determination in the face of scandal leads the reader on a journey both heartwarming and inspiring.",
+                    "industryIdentifiers": [
+                    {
+                    "type": "ISBN_10",
+                    "identifier": "1441203230"
+                    },
+                    {
+                    "type": "ISBN_13",
+                    "identifier": "9781441203236"
+                    }
+                    ],
+                    "readingModes": {
+                    "text": true,
+                    "image": false
+                    },
+                    "pageCount": 320,
+                    "printType": "BOOK",
+                    "categories": [
+                    "Fiction"
+                    ],
+                    "averageRating": 4,
+                    "ratingsCount": 9,
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": true,
+                    "contentVersion": "0.11.8.0.preview.2",
+                    "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                    },
+                    "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=kezbmCcGaaAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=kezbmCcGaaAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.com/books?id=kezbmCcGaaAC&pg=PA291&dq=ruby&hl=&cd=8&source=gbs_api",
+                    "infoLink": "http://books.google.com/books?id=kezbmCcGaaAC&dq=ruby&hl=&source=gbs_api",
+                    "canonicalVolumeLink": "https://books.google.com/books/about/Ruby_Dakotah_Treasures_Book_1.html?hl=&id=kezbmCcGaaAC"
+                    },
+                    "saleInfo": {
+                    "country": "KE",
+                    "saleability": "NOT_FOR_SALE",
+                    "isEbook": false
+                    },
+                    "accessInfo": {
+                    "country": "KE",
+                    "viewability": "PARTIAL",
+                    "embeddable": true,
+                    "publicDomain": false,
+                    "textToSpeechPermission": "ALLOWED",
+                    "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com/books/download/Ruby_Dakotah_Treasures_Book_1-sample-epub.acsm?id=kezbmCcGaaAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                    },
+                    "pdf": {
+                    "isAvailable": false
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=kezbmCcGaaAC&hl=&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "SAMPLE",
+                    "quoteSharingAllowed": false
+                    },
+                    "searchInfo": {
+                    "textSnippet": "&#39;&#39;I think we&#39;ll all go, but in pairs,&#39;&#39; <b>Ruby</b> said. &#39;&#39;Maybe she went down by the river and tripped or something.&#39;&#39; Opal followed Milly out the door. &#39;&#39;You two go up the street, Rand and I&#39;ll check over toward the buttes."
+                    }
+                    },
+                    {
+                    "kind": "books#volume",
+                    "id": "5jYhAAAAMAAJ",
+                    "etag": "4r+HlhSWV8E",
+                    "selfLink": "https://www.googleapis.com/books/v1/volumes/5jYhAAAAMAAJ",
+                    "volumeInfo": {
+                    "title": "Ruby Sweetwater and the Ringo Kid",
+                    "authors": [
+                    "Sheldon Bart"
+                    ],
+                    "publisher": "McGraw-Hill Companies",
+                    "publishedDate": "1981",
+                    "description": "Society woman Ruby Sweetwater, outlaw Butch Cassidy, police chief Thomas W. Byrnes, and rival gangsters Monk Eastman and Paul Kelly all stand in the way of The Kid's plan to retire permanently from a life of crime",
+                    "industryIdentifiers": [
+                    {
+                    "type": "OTHER",
+                    "identifier": "UOM:39015051324427"
+                    }
+                    ],
+                    "readingModes": {
+                    "text": false,
+                    "image": false
+                    },
+                    "pageCount": 341,
+                    "printType": "BOOK",
+                    "categories": [
+                    "Fiction"
+                    ],
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "1.5.1.0.preview.0",
+                    "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                    },
+                    "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=5jYhAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=5jYhAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.com/books?id=5jYhAAAAMAAJ&q=ruby&dq=ruby&hl=&cd=9&source=gbs_api",
+                    "infoLink": "http://books.google.com/books?id=5jYhAAAAMAAJ&dq=ruby&hl=&source=gbs_api",
+                    "canonicalVolumeLink": "https://books.google.com/books/about/Ruby_Sweetwater_and_the_Ringo_Kid.html?hl=&id=5jYhAAAAMAAJ"
+                    },
+                    "saleInfo": {
+                    "country": "KE",
+                    "saleability": "NOT_FOR_SALE",
+                    "isEbook": false
+                    },
+                    "accessInfo": {
+                    "country": "KE",
+                    "viewability": "NO_PAGES",
+                    "embeddable": false,
+                    "publicDomain": false,
+                    "textToSpeechPermission": "ALLOWED",
+                    "epub": {
+                    "isAvailable": false
+                    },
+                    "pdf": {
+                    "isAvailable": false
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=5jYhAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "NONE",
+                    "quoteSharingAllowed": false
+                    },
+                    "searchInfo": {
+                    "textSnippet": "talking, Vanderbilt II the grousing, Marlborough the smiling, Mr. Vanderbilt I the drinking, and <b>Ruby</b> had done the eating. She didn&#39;t eat like there was no tomorrow. She just ate like tomorrow wouldn&#39;t get here till next week."
+                    }
+                    },
+                    {
+                    "kind": "books#volume",
+                    "id": "VZ4bCwAAQBAJ",
+                    "etag": "e+XsQ4CtBEw",
+                    "selfLink": "https://www.googleapis.com/books/v1/volumes/VZ4bCwAAQBAJ",
+                    "volumeInfo": {
+                    "title": "The Ruby Programming Language",
+                    "authors": [
+                    "David Flanagan",
+                    "Yukihiro Matsumoto"
+                    ],
+                    "publisher": "\"O'Reilly Media, Inc.\"",
+                    "publishedDate": "2008-01-25",
+                    "description": "A guide to Ruby programming covers such topics as datatypes and objects, expressions, classes and modules, control structures, and the Ruby platform.",
+                    "industryIdentifiers": [
+                    {
+                    "type": "ISBN_13",
+                    "identifier": "9780596520168"
+                    },
+                    {
+                    "type": "ISBN_10",
+                    "identifier": "0596520166"
+                    }
+                    ],
+                    "readingModes": {
+                    "text": false,
+                    "image": true
+                    },
+                    "pageCount": 444,
+                    "printType": "BOOK",
+                    "categories": [
+                    "Computers"
+                    ],
+                    "averageRating": 4,
+                    "ratingsCount": 1,
+                    "maturityRating": "NOT_MATURE",
+                    "allowAnonLogging": false,
+                    "contentVersion": "preview-1.0.0",
+                    "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=VZ4bCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=VZ4bCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                    },
+                    "language": "en",
+                    "previewLink": "http://books.google.com/books?id=VZ4bCwAAQBAJ&pg=PA11&dq=ruby&hl=&cd=10&source=gbs_api",
+                    "infoLink": "http://books.google.com/books?id=VZ4bCwAAQBAJ&dq=ruby&hl=&source=gbs_api",
+                    "canonicalVolumeLink": "https://books.google.com/books/about/The_Ruby_Programming_Language.html?hl=&id=VZ4bCwAAQBAJ"
+                    },
+                    "saleInfo": {
+                    "country": "KE",
+                    "saleability": "NOT_FOR_SALE",
+                    "isEbook": false
+                    },
+                    "accessInfo": {
+                    "country": "KE",
+                    "viewability": "PARTIAL",
+                    "embeddable": true,
+                    "publicDomain": false,
+                    "textToSpeechPermission": "ALLOWED",
+                    "epub": {
+                    "isAvailable": false
+                    },
+                    "pdf": {
+                    "isAvailable": false
+                    },
+                    "webReaderLink": "http://play.google.com/books/reader?id=VZ4bCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                    "accessViewStatus": "SAMPLE",
+                    "quoteSharingAllowed": false
+                    },
+                    "searchInfo": {
+                    "textSnippet": "<b>Ruby&#39;s</b> conditionals and loops (such as if and while) evaluate conditional expressions to determine which branch to evaluate or whether to continue looping. Conditional expressions often evaluate to true or false, but this is not&nbsp;..."
+                    }
+                    },
+                    {
+                      "kind": "books#volume",
+                      "id": "RdrG1aJZ4lgC",
+                      "etag": "3XccR5APOqk",
+                      "selfLink": "https://www.googleapis.com/books/v1/volumes/RdrG1aJZ4lgC",
+                      "volumeInfo": {
+                      "title": "HTML & XHTML: The Definitive Guide",
+                      "subtitle": "The Definitive Guide",
+                      "authors": [
+                      "Chuck Musciano",
+                      "Bill Kennedy"
+                      ],
+                      "publisher": "O'Reilly Media",
+                      "publishedDate": "2006-10-08",
+                      "description": "\"...lucid, in-depth descriptions of the behavior of every HTML tag on every major browser and platform, plus enough dry humor to make the book a pleasure to read.\" --Edward Mendelson, PC Magazine \"When they say 'definitive' they're not kidding.\" --Linda Roeder, About.com Put everthing you need to know about HTML & XHTML at your fingertips. For nearly a decade, hundreds of thousands of web developers have turned to HTML & XHTML: The Definitive Guide to master standards-based web development. Truly a definitive guide, the book combines a unique balance of tutorial material with a comprehensive reference that even the most experienced web professionals keep close at hand. From basic syntax and semantics to guidelines aimed at helping you develop your own distinctive style, this classic is all you need to become fluent in the language of web design. The new sixth edition guides you through every element of HTML and XHTML in detail, explaining how each element works and how it interacts with other elements. You'll also find detailed discussions of CSS (Cascading Style Sheets), which is intricately related to web page development. The most all-inclusive, up-to-date book on these languages available, this edition covers HTML 4.01, XHTML 1.0, and CSS2, with a preview of the upcoming XHTML2 and CSS3. Other topics include the newer initiatives in XHTML (XForms, XFrames, and modularization) and the essentials of XML for advanced readers. You'll learn how to: Use style sheets to control your document's appearance Work with programmatically generated HTML Create tables, both simple and complex Use frames to coordinate sets of documents Design and build interactive forms and dynamic documents Insert images, sound files, video, Java applets, and JavaScript programs Create documents that look good on a variety of browsers The authors apply a natural learning approach that uses straightforward language and plenty of examples. Throughout the book, they offer suggestions for style and composition to help you decide how to best use HTML and XHTML to accomplish a variety of tasks. You'll learn what works and what doesn't, and what makes sense to those who view your web pages and what might be confusing. Written for anyone who wants to learn the language of the Web--from casual users to the full-time design professionals--this is the single most important book on HTML and XHTML you can own. Bill Kennedy is chief technical officer of MobileRobots, Inc. When not hacking new HTML pages or writing about them, \"Dr. Bill\" (Ph.D. in biophysics from Loyola University of Chicago) is out promoting the company's line of mobile, autonomous robots that can be used for artificial intelligence, fuzzy logic research, and education. Chuck Musciano began his career as a compiler writer and crafter of tools at Harris Corporations' Advanced Technology Group and is now a manager of Unix Systems in Harris' Corporate Data Center.",
+                      "industryIdentifiers": [
+                      {
+                      "type": "ISBN_10",
+                      "identifier": "0596527322"
+                      },
+                      {
+                      "type": "ISBN_13",
+                      "identifier": "9780596527327"
+                      }
+                      ],
+                      "readingModes": {
+                      "text": false,
+                      "image": false
+                      },
+                      "pageCount": 678,
+                      "printType": "BOOK",
+                      "categories": [
+                      "Computers"
+                      ],
+                      "averageRating": 4,
+                      "ratingsCount": 6,
+                      "maturityRating": "NOT_MATURE",
+                      "allowAnonLogging": false,
+                      "contentVersion": "2.1.0.0.preview.0",
+                      "imageLinks": {
+                      "smallThumbnail": "http://books.google.com/books/content?id=RdrG1aJZ4lgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                      "thumbnail": "http://books.google.com/books/content?id=RdrG1aJZ4lgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                      },
+                      "language": "en",
+                      "previewLink": "http://books.google.com/books?id=RdrG1aJZ4lgC&dq=html&hl=&cd=1&source=gbs_api",
+                      "infoLink": "http://books.google.com/books?id=RdrG1aJZ4lgC&dq=html&hl=&source=gbs_api",
+                      "canonicalVolumeLink": "https://books.google.com/books/about/HTML_XHTML_The_Definitive_Guide.html?hl=&id=RdrG1aJZ4lgC"
+                      },
+                      "saleInfo": {
+                      "country": "KE",
+                      "saleability": "NOT_FOR_SALE",
+                      "isEbook": false
+                      },
+                      "accessInfo": {
+                      "country": "KE",
+                      "viewability": "NO_PAGES",
+                      "embeddable": false,
+                      "publicDomain": false,
+                      "textToSpeechPermission": "ALLOWED",
+                      "epub": {
+                      "isAvailable": false
+                      },
+                      "pdf": {
+                      "isAvailable": true
+                      },
+                      "webReaderLink": "http://play.google.com/books/reader?id=RdrG1aJZ4lgC&hl=&printsec=frontcover&source=gbs_api",
+                      "accessViewStatus": "NONE",
+                      "quoteSharingAllowed": false
+                      },
+                      "searchInfo": {
+                      "textSnippet": "The most all-inclusive, up-to-date book on these languages available, this edition covers HTML 4.01, XHTML 1.0, and CSS2, with a preview of the upcoming XHTML2 and CSS3."
+                      }
+                      },
+                      {
+                      "kind": "books#volume",
+                      "id": "BZIYQtV6yKsC",
+                      "etag": "3YKybN6WvD8",
+                      "selfLink": "https://www.googleapis.com/books/v1/volumes/BZIYQtV6yKsC",
+                      "volumeInfo": {
+                      "title": "Head First HTML and CSS",
+                      "authors": [
+                      "Elisabeth Robson",
+                      "Eric Freeman"
+                      ],
+                      "publisher": "\"O'Reilly Media, Inc.\"",
+                      "publishedDate": "2012",
+                      "description": "Presents information on creating Web pages using HTML and CSS.",
+                      "industryIdentifiers": [
+                      {
+                      "type": "ISBN_13",
+                      "identifier": "9780596159900"
+                      },
+                      {
+                      "type": "ISBN_10",
+                      "identifier": "0596159900"
+                      }
+                      ],
+                      "readingModes": {
+                      "text": false,
+                      "image": true
+                      },
+                      "pageCount": 723,
+                      "printType": "BOOK",
+                      "categories": [
+                      "Computers"
+                      ],
+                      "averageRating": 4,
+                      "ratingsCount": 8,
+                      "maturityRating": "NOT_MATURE",
+                      "allowAnonLogging": false,
+                      "contentVersion": "1.2.1.0.preview.1",
+                      "imageLinks": {
+                      "smallThumbnail": "http://books.google.com/books/content?id=BZIYQtV6yKsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                      "thumbnail": "http://books.google.com/books/content?id=BZIYQtV6yKsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                      },
+                      "language": "en",
+                      "previewLink": "http://books.google.com/books?id=BZIYQtV6yKsC&printsec=frontcover&dq=html&hl=&cd=2&source=gbs_api",
+                      "infoLink": "http://books.google.com/books?id=BZIYQtV6yKsC&dq=html&hl=&source=gbs_api",
+                      "canonicalVolumeLink": "https://books.google.com/books/about/Head_First_HTML_and_CSS.html?hl=&id=BZIYQtV6yKsC"
+                      },
+                      "saleInfo": {
+                      "country": "KE",
+                      "saleability": "NOT_FOR_SALE",
+                      "isEbook": false
+                      },
+                      "accessInfo": {
+                      "country": "KE",
+                      "viewability": "PARTIAL",
+                      "embeddable": true,
+                      "publicDomain": false,
+                      "textToSpeechPermission": "ALLOWED",
+                      "epub": {
+                      "isAvailable": false
+                      },
+                      "pdf": {
+                      "isAvailable": false
+                      },
+                      "webReaderLink": "http://play.google.com/books/reader?id=BZIYQtV6yKsC&hl=&printsec=frontcover&source=gbs_api",
+                      "accessViewStatus": "SAMPLE",
+                      "quoteSharingAllowed": false
+                      },
+                      "searchInfo": {
+                      "textSnippet": "Presents information on creating Web pages using HTML and CSS."
+                      }
+                      },
+                      {
+                      "kind": "books#volume",
+                      "id": "YwEQoMAJjj8C",
+                      "etag": "qTXbMfkapio",
+                      "selfLink": "https://www.googleapis.com/books/v1/volumes/YwEQoMAJjj8C",
+                      "volumeInfo": {
+                      "title": "HTML Web Design in 7 Days",
+                      "publisher": "Siamak Sarmady",
+                      "readingModes": {
+                      "text": false,
+                      "image": true
+                      },
+                      "printType": "BOOK",
+                      "averageRating": 5,
+                      "ratingsCount": 1,
+                      "maturityRating": "NOT_MATURE",
+                      "allowAnonLogging": false,
+                      "contentVersion": "1.1.0.0.preview.1",
+                      "imageLinks": {
+                      "smallThumbnail": "http://books.google.com/books/content?id=YwEQoMAJjj8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                      "thumbnail": "http://books.google.com/books/content?id=YwEQoMAJjj8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                      },
+                      "language": "en",
+                      "previewLink": "http://books.google.com/books?id=YwEQoMAJjj8C&pg=PT3&dq=html&hl=&cd=3&source=gbs_api",
+                      "infoLink": "http://books.google.com/books?id=YwEQoMAJjj8C&dq=html&hl=&source=gbs_api",
+                      "canonicalVolumeLink": "https://books.google.com/books/about/HTML_Web_Design_in_7_Days.html?hl=&id=YwEQoMAJjj8C"
+                      },
+                      "saleInfo": {
+                      "country": "KE",
+                      "saleability": "NOT_FOR_SALE",
+                      "isEbook": false
+                      },
+                      "accessInfo": {
+                      "country": "KE",
+                      "viewability": "PARTIAL",
+                      "embeddable": true,
+                      "publicDomain": false,
+                      "textToSpeechPermission": "ALLOWED",
+                      "epub": {
+                      "isAvailable": false
+                      },
+                      "pdf": {
+                      "isAvailable": false
+                      },
+                      "webReaderLink": "http://play.google.com/books/reader?id=YwEQoMAJjj8C&hl=&printsec=frontcover&source=gbs_api",
+                      "accessViewStatus": "SAMPLE",
+                      "quoteSharingAllowed": false
+                      },
+                      "searchInfo": {
+                      "textSnippet": "eb pages are ordinary files with “.htm” or “.<b>html</b>” file extensions. They contain a code named &quot;hyper text mark-up language&quot; or <b>html</b>. This codes when viewed in a browser like Internet Explorer or Firefox or other web browsers will be&nbsp;..."
+                      }
+                      },
+                      {
+                      "kind": "books#volume",
+                      "id": "mwrf1EMOcskC",
+                      "etag": "Xo05UP5ujQ0",
+                      "selfLink": "https://www.googleapis.com/books/v1/volumes/mwrf1EMOcskC",
+                      "volumeInfo": {
+                      "title": "Beginning Web Programming with HTML, XHTML, and CSS",
+                      "authors": [
+                      "Jon Duckett"
+                      ],
+                      "publisher": "John Wiley & Sons",
+                      "publishedDate": "2004-08-06",
+                      "description": "Teaches beginners to use XHTML as the standard programming language, as well as HTML and other common programming languages, to create useable, accessible Web pages. Original. (Beginner)",
+                      "industryIdentifiers": [
+                      {
+                      "type": "ISBN_13",
+                      "identifier": "9780764570780"
+                      },
+                      {
+                      "type": "ISBN_10",
+                      "identifier": "0764570781"
+                      }
+                      ],
+                      "readingModes": {
+                      "text": false,
+                      "image": true
+                      },
+                      "pageCount": 814,
+                      "printType": "BOOK",
+                      "categories": [
+                      "Computers"
+                      ],
+                      "averageRating": 4,
+                      "ratingsCount": 4,
+                      "maturityRating": "NOT_MATURE",
+                      "allowAnonLogging": false,
+                      "contentVersion": "2.0.0.0.preview.1",
+                      "imageLinks": {
+                      "smallThumbnail": "http://books.google.com/books/content?id=mwrf1EMOcskC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                      "thumbnail": "http://books.google.com/books/content?id=mwrf1EMOcskC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                      },
+                      "language": "en",
+                      "previewLink": "http://books.google.com/books?id=mwrf1EMOcskC&pg=PA420&dq=html&hl=&cd=4&source=gbs_api",
+                      "infoLink": "http://books.google.com/books?id=mwrf1EMOcskC&dq=html&hl=&source=gbs_api",
+                      "canonicalVolumeLink": "https://books.google.com/books/about/Beginning_Web_Programming_with_HTML_XHTM.html?hl=&id=mwrf1EMOcskC"
+                      },
+                      "saleInfo": {
+                      "country": "KE",
+                      "saleability": "NOT_FOR_SALE",
+                      "isEbook": false
+                      },
+                      "accessInfo": {
+                      "country": "KE",
+                      "viewability": "PARTIAL",
+                      "embeddable": true,
+                      "publicDomain": false,
+                      "textToSpeechPermission": "ALLOWED",
+                      "epub": {
+                      "isAvailable": false
+                      },
+                      "pdf": {
+                      "isAvailable": true,
+                      "acsTokenLink": "http://books.google.com/books/download/Beginning_Web_Programming_with_HTML_XHTM-sample-pdf.acsm?id=mwrf1EMOcskC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                      },
+                      "webReaderLink": "http://play.google.com/books/reader?id=mwrf1EMOcskC&hl=&printsec=frontcover&source=gbs_api",
+                      "accessViewStatus": "SAMPLE",
+                      "quoteSharingAllowed": false
+                      },
+                      "searchInfo": {
+                      "textSnippet": "By adding space between the elements of the page it is instantly more readable and more attractive, while the background colors help distinguish items from their neighbors (chl2_eg02 . <b>html</b>). Notably, the items in the navigation are not&nbsp;..."
+                      }
+                      },
+                      {
+                      "kind": "books#volume",
+                      "id": "pvwVH2fQKWQC",
+                      "etag": "vcqnhQRh2Ok",
+                      "selfLink": "https://www.googleapis.com/books/v1/volumes/pvwVH2fQKWQC",
+                      "volumeInfo": {
+                      "title": "Kenya National Assembly Official Record (Hansard)",
+                      "publishedDate": "1986-03-04",
+                      "description": "The official records of the proceedings of the Legislative Council of the Colony and Protectorate of Kenya, the House of Representatives of the Government of Kenya and the National Assembly of the Republic of Kenya.",
+                      "readingModes": {
+                      "text": false,
+                      "image": true
+                      },
+                      "pageCount": 896,
+                      "printType": "MAGAZINE",
+                      "averageRating": 3,
+                      "ratingsCount": 1,
+                      "maturityRating": "NOT_MATURE",
+                      "allowAnonLogging": false,
+                      "contentVersion": "0.0.1.0.preview.1",
+                      "imageLinks": {
+                      "smallThumbnail": "http://books.google.com/books/content?id=pvwVH2fQKWQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                      "thumbnail": "http://books.google.com/books/content?id=pvwVH2fQKWQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                      },
+                      "language": "en",
+                      "previewLink": "http://books.google.com/books?id=pvwVH2fQKWQC&printsec=frontcover&dq=html&hl=&cd=5&source=gbs_api",
+                      "infoLink": "http://books.google.com/books?id=pvwVH2fQKWQC&dq=html&hl=&source=gbs_api",
+                      "canonicalVolumeLink": "https://books.google.com/books/about/Kenya_National_Assembly_Official_Record.html?hl=&id=pvwVH2fQKWQC"
+                      },
+                      "saleInfo": {
+                      "country": "KE",
+                      "saleability": "NOT_FOR_SALE",
+                      "isEbook": false
+                      },
+                      "accessInfo": {
+                      "country": "KE",
+                      "viewability": "ALL_PAGES",
+                      "embeddable": true,
+                      "publicDomain": false,
+                      "textToSpeechPermission": "ALLOWED",
+                      "epub": {
+                      "isAvailable": false
+                      },
+                      "pdf": {
+                      "isAvailable": false
+                      },
+                      "webReaderLink": "http://play.google.com/books/reader?id=pvwVH2fQKWQC&hl=&printsec=frontcover&source=gbs_api",
+                      "accessViewStatus": "SAMPLE",
+                      "quoteSharingAllowed": false
+                      },
+                      "searchInfo": {
+                      "textSnippet": "The official records of the proceedings of the Legislative Council of the Colony and Protectorate of Kenya, the House of Representatives of the Government of Kenya and the National Assembly of the Republic of Kenya."
+                      }
+                      },
+                      {
+                      "kind": "books#volume",
+                      "id": "TYc_AQAAIAAJ",
+                      "etag": "mGb/eiAxm2Q",
+                      "selfLink": "https://www.googleapis.com/books/v1/volumes/TYc_AQAAIAAJ",
+                      "volumeInfo": {
+                      "title": "HTML Unleashed",
+                      "authors": [
+                      "Rick Darnell"
+                      ],
+                      "publisher": "Sams",
+                      "publishedDate": "1997",
+                      "description": "A comprehensive reference on HTML encompasses the latest developments in HTML specification, as well as Microsoft and Netscape extensions, covering such topics as effective Web page design, HTML 3.2 language, development tools and site administration, and more. Original. (Advanced).",
+                      "industryIdentifiers": [
+                      {
+                      "type": "OTHER",
+                      "identifier": "UCSD:31822025577941"
+                      }
+                      ],
+                      "readingModes": {
+                      "text": false,
+                      "image": false
+                      },
+                      "pageCount": 1030,
+                      "printType": "BOOK",
+                      "categories": [
+                      "Computers"
+                      ],
+                      "maturityRating": "NOT_MATURE",
+                      "allowAnonLogging": false,
+                      "contentVersion": "0.1.2.0.preview.0",
+                      "panelizationSummary": {
+                      "containsEpubBubbles": false,
+                      "containsImageBubbles": false
+                      },
+                      "imageLinks": {
+                      "smallThumbnail": "http://books.google.com/books/content?id=TYc_AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                      "thumbnail": "http://books.google.com/books/content?id=TYc_AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+                      },
+                      "language": "en",
+                      "previewLink": "http://books.google.com/books?id=TYc_AQAAIAAJ&q=html&dq=html&hl=&cd=6&source=gbs_api",
+                      "infoLink": "http://books.google.com/books?id=TYc_AQAAIAAJ&dq=html&hl=&source=gbs_api",
+                      "canonicalVolumeLink": "https://books.google.com/books/about/HTML_Unleashed.html?hl=&id=TYc_AQAAIAAJ"
+                      },
+                      "saleInfo": {
+                      "country": "KE",
+                      "saleability": "NOT_FOR_SALE",
+                      "isEbook": false
+                      },
+                      "accessInfo": {
+                      "country": "KE",
+                      "viewability": "NO_PAGES",
+                      "embeddable": false,
+                      "publicDomain": false,
+                      "textToSpeechPermission": "ALLOWED",
+                      "epub": {
+                      "isAvailable": false
+                      },
+                      "pdf": {
+                      "isAvailable": false
+                      },
+                      "webReaderLink": "http://play.google.com/books/reader?id=TYc_AQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+                      "accessViewStatus": "NONE",
+                      "quoteSharingAllowed": false
+                      },
+                      "searchInfo": {
+                      "textSnippet": "Abstract The Hypertext Markup Language (<b>HTML</b>) is a simple markup language used to create hypertext documents that are portable from one platform to another. <b>HTML</b> documents are SGML documents with generic semantics that are appropriate&nbsp;..."
+                      }
+                      },
+                      {
+                      "kind": "books#volume",
+                      "id": "Dkr_V9ruJyEC",
+                      "etag": "auTRfgom9O8",
+                      "selfLink": "https://www.googleapis.com/books/v1/volumes/Dkr_V9ruJyEC",
+                      "volumeInfo": {
+                      "title": "Basic HTML Teacher Resources",
+                      "authors": [
+                      "K. Hayhow"
+                      ],
+                      "publisher": "Payne Gallway",
+                      "publishedDate": "2005-04-04",
+                      "description": "This Teacher's book provides invaluable help for teachers and parents to give children a head start in the basics of HTML. It accompanies the pupil's book Basic HTML and features additional tips and advice on preparation, and photocopiable worksheets comprising 16 assignments, complete with answers, some of which can be completed away from the computer. Each assignment provides extra practice on topics learned in the corresponding Pupil's book chapter.",
+                      "industryIdentifiers": [
+                      {
+                      "type": "ISBN_13",
+                      "identifier": "9781904467441"
+                      },
+                      {
+                      "type": "ISBN_10",
+                      "identifier": "190446744X"
+                      }
+                      ],
+                      "readingModes": {
+                      "text": false,
+                      "image": true
+                      },
+                      "pageCount": 102,
+                      "printType": "BOOK",
+                      "categories": [
+                      "HTML (Document markup language)"
+                      ],
+                      "maturityRating": "NOT_MATURE",
+                      "allowAnonLogging": false,
+                      "contentVersion": "preview-1.0.0",
+                      "imageLinks": {
+                      "smallThumbnail": "http://books.google.com/books/content?id=Dkr_V9ruJyEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                      "thumbnail": "http://books.google.com/books/content?id=Dkr_V9ruJyEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                      },
+                      "language": "en",
+                      "previewLink": "http://books.google.com/books?id=Dkr_V9ruJyEC&pg=SL1-PA2&dq=html&hl=&cd=7&source=gbs_api",
+                      "infoLink": "http://books.google.com/books?id=Dkr_V9ruJyEC&dq=html&hl=&source=gbs_api",
+                      "canonicalVolumeLink": "https://books.google.com/books/about/Basic_HTML_Teacher_Resources.html?hl=&id=Dkr_V9ruJyEC"
+                      },
+                      "saleInfo": {
+                      "country": "KE",
+                      "saleability": "NOT_FOR_SALE",
+                      "isEbook": false
+                      },
+                      "accessInfo": {
+                      "country": "KE",
+                      "viewability": "PARTIAL",
+                      "embeddable": true,
+                      "publicDomain": false,
+                      "textToSpeechPermission": "ALLOWED",
+                      "epub": {
+                      "isAvailable": false
+                      },
+                      "pdf": {
+                      "isAvailable": false
+                      },
+                      "webReaderLink": "http://play.google.com/books/reader?id=Dkr_V9ruJyEC&hl=&printsec=frontcover&source=gbs_api",
+                      "accessViewStatus": "SAMPLE",
+                      "quoteSharingAllowed": false
+                      },
+                      "searchInfo": {
+                      "textSnippet": "Basic <b>HTML</b> Teacher Resources Worksheet 1 A - <b>HTML</b> and the Internet Teacher&#39;s notes Topics covered in this worksheet • Uses of web sites on the Internet • Differences between browsers and editors • Advantages of writing <b>HTML</b> (rather than&nbsp;..."
+                      }
+                      },
+                      {
+                      "kind": "books#volume",
+                      "id": "zARk6zT0twYC",
+                      "etag": "f53r3A3Rwww",
+                      "selfLink": "https://www.googleapis.com/books/v1/volumes/zARk6zT0twYC",
+                      "volumeInfo": {
+                      "title": "HTML and XHTML Pocket Reference",
+                      "authors": [
+                      "Jennifer Niederst Robbins"
+                      ],
+                      "publisher": "\"O'Reilly Media, Inc.\"",
+                      "publishedDate": "2006-05-08",
+                      "description": "After years of using spacer GIFs, layers of nested tables, and other improvised solutions for building your web sites, getting used to the more stringent \"standards-compliant\" design that is de rigueur among professionals today can be intimidating. With standards-driven design, keeping style separate from content is not just a possibility but a reality. You no longer use HTML and XHTML as design tools, but strictly as ways to define the meaning and structure of web content. And Cascading Style Sheets (CSS) are no longer just something interesting to tinker with, but a reliable method for handling all matters of presentation, from fonts and colors to page layout. When you follow the standards, both the site's design and underlying code are much cleaner. But how do you keep all those HTML and XHTML tags and CSS values straight? Jennifer Niederst-Robbins, the author of our definitive guide on standards-compliant design, Web Design in a Nutshell, offers you the perfect little guide when you need answers immediately: HTML and XHTML Pocket Reference. This revised and updated new edition takes the top 20% of vital reference information from her Nutshell book, augments it judiciously, cross-references everything, and organizes it according to the most common needs of web developers. The result is a handy book that offers the bare essentials on web standards in a small, concise format that you can use carry anywhere for quick reference. This guide will literally fit into your back pocket. Inside HTML and XHTML Pocket Reference, you'll find instantly accessible alphabetical listings of every element and attribute in the HTML 4.01 and XHTML 1.0 Recommendations. This is an indispensable reference for any serious web designer, author, or programmer who needs a fast on-the-job resource when working with established web standards.",
+                      "industryIdentifiers": [
+                      {
+                      "type": "ISBN_13",
+                      "identifier": "9780596551483"
+                      },
+                      {
+                      "type": "ISBN_10",
+                      "identifier": "0596551487"
+                      }
+                      ],
+                      "readingModes": {
+                      "text": true,
+                      "image": true
+                      },
+                      "pageCount": 108,
+                      "printType": "BOOK",
+                      "categories": [
+                      "Computers"
+                      ],
+                      "maturityRating": "NOT_MATURE",
+                      "allowAnonLogging": true,
+                      "contentVersion": "0.3.2.0.preview.3",
+                      "panelizationSummary": {
+                      "containsEpubBubbles": false,
+                      "containsImageBubbles": false
+                      },
+                      "imageLinks": {
+                      "smallThumbnail": "http://books.google.com/books/content?id=zARk6zT0twYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                      "thumbnail": "http://books.google.com/books/content?id=zARk6zT0twYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                      },
+                      "language": "en",
+                      "previewLink": "http://books.google.com/books?id=zARk6zT0twYC&pg=PA1&dq=html&hl=&cd=8&source=gbs_api",
+                      "infoLink": "http://books.google.com/books?id=zARk6zT0twYC&dq=html&hl=&source=gbs_api",
+                      "canonicalVolumeLink": "https://books.google.com/books/about/HTML_and_XHTML_Pocket_Reference.html?hl=&id=zARk6zT0twYC"
+                      },
+                      "saleInfo": {
+                      "country": "KE",
+                      "saleability": "NOT_FOR_SALE",
+                      "isEbook": false
+                      },
+                      "accessInfo": {
+                      "country": "KE",
+                      "viewability": "PARTIAL",
+                      "embeddable": true,
+                      "publicDomain": false,
+                      "textToSpeechPermission": "ALLOWED",
+                      "epub": {
+                      "isAvailable": true
+                      },
+                      "pdf": {
+                      "isAvailable": true
+                      },
+                      "webReaderLink": "http://play.google.com/books/reader?id=zARk6zT0twYC&hl=&printsec=frontcover&source=gbs_api",
+                      "accessViewStatus": "SAMPLE",
+                      "quoteSharingAllowed": false
+                      },
+                      "searchInfo": {
+                      "textSnippet": "<b>HTML</b>. and. XHTML. Pocket. Reference. This pocket reference provides a concise yet thorough listing of the elements and attributes specified in the <b>HTML</b> 4.01 and XHTML 1.0 Recommendations. The text uses the shorthand “(X)<b>HTML</b>” for&nbsp;..."
+                      }
+                      },
+                      {
+                      "kind": "books#volume",
+                      "id": "ym8nKP7JdHwC",
+                      "etag": "4gpaRKISuGQ",
+                      "selfLink": "https://www.googleapis.com/books/v1/volumes/ym8nKP7JdHwC",
+                      "volumeInfo": {
+                      "title": "Mastering HTML and XHTML",
+                      "authors": [
+                      "Deborah S. Ray",
+                      "Eric J. Ray"
+                      ],
+                      "publisher": "John Wiley & Sons",
+                      "publishedDate": "2006-02-20",
+                      "industryIdentifiers": [
+                      {
+                      "type": "ISBN_10",
+                      "identifier": "0782152465"
+                      },
+                      {
+                      "type": "ISBN_13",
+                      "identifier": "9780782152463"
+                      }
+                      ],
+                      "readingModes": {
+                      "text": false,
+                      "image": true
+                      },
+                      "pageCount": 1107,
+                      "printType": "BOOK",
+                      "categories": [
+                      "Computers"
+                      ],
+                      "averageRating": 5,
+                      "ratingsCount": 1,
+                      "maturityRating": "NOT_MATURE",
+                      "allowAnonLogging": false,
+                      "contentVersion": "1.2.0.0.preview.1",
+                      "imageLinks": {
+                      "smallThumbnail": "http://books.google.com/books/content?id=ym8nKP7JdHwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                      "thumbnail": "http://books.google.com/books/content?id=ym8nKP7JdHwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                      },
+                      "language": "en",
+                      "previewLink": "http://books.google.com/books?id=ym8nKP7JdHwC&pg=PA486&dq=html&hl=&cd=9&source=gbs_api",
+                      "infoLink": "http://books.google.com/books?id=ym8nKP7JdHwC&dq=html&hl=&source=gbs_api",
+                      "canonicalVolumeLink": "https://books.google.com/books/about/Mastering_HTML_and_XHTML.html?hl=&id=ym8nKP7JdHwC"
+                      },
+                      "saleInfo": {
+                      "country": "KE",
+                      "saleability": "NOT_FOR_SALE",
+                      "isEbook": false
+                      },
+                      "accessInfo": {
+                      "country": "KE",
+                      "viewability": "PARTIAL",
+                      "embeddable": true,
+                      "publicDomain": false,
+                      "textToSpeechPermission": "ALLOWED",
+                      "epub": {
+                      "isAvailable": false
+                      },
+                      "pdf": {
+                      "isAvailable": true,
+                      "acsTokenLink": "http://books.google.com/books/download/Mastering_HTML_and_XHTML-sample-pdf.acsm?id=ym8nKP7JdHwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                      },
+                      "webReaderLink": "http://play.google.com/books/reader?id=ym8nKP7JdHwC&hl=&printsec=frontcover&source=gbs_api",
+                      "accessViewStatus": "SAMPLE",
+                      "quoteSharingAllowed": false
+                      },
+                      "searchInfo": {
+                      "textSnippet": "Tip For more information about SGML, check out Robin Cover&#39;s comprehensive site at www.oasis-open.org/ cover/sgml-xml.<b>html</b> . Note the very strong emphasis on XML coverage. You&#39;ll have to search individual topic categories for&nbsp;..."
+                      }
+                      },
+                      {
+                      "kind": "books#volume",
+                      "id": "3A-SDZTWGIUC",
+                      "etag": "jaOxIkgG7j0",
+                      "selfLink": "https://www.googleapis.com/books/v1/volumes/3A-SDZTWGIUC",
+                      "volumeInfo": {
+                      "title": "Mastering Integrated HTML and CSS",
+                      "authors": [
+                      "Virginia DeBolt"
+                      ],
+                      "publisher": "John Wiley & Sons",
+                      "publishedDate": "2007-03-31",
+                      "description": "This unique approach to learning HTML and CSS simultaneously shows you how to save time and be more productive by learning to structure your (X) HTML content for best effect with CSS styles. You’ll discover how to create websites that are accessible to the widest range of visitors, build CSS for print and handheld devices, and work with a variety of CSS-based layouts. Using the latest standards, best practices, and real-world examples, this book offers you with a thorough grounding in the basics and also includes advanced techniques.",
+                      "industryIdentifiers": [
+                      {
+                      "type": "ISBN_13",
+                      "identifier": "9780470147931"
+                      },
+                      {
+                      "type": "ISBN_10",
+                      "identifier": "0470147938"
+                      }
+                      ],
+                      "readingModes": {
+                      "text": false,
+                      "image": true
+                      },
+                      "pageCount": 600,
+                      "printType": "BOOK",
+                      "categories": [
+                      "Computers"
+                      ],
+                      "averageRating": 5,
+                      "ratingsCount": 1,
+                      "maturityRating": "NOT_MATURE",
+                      "allowAnonLogging": false,
+                      "contentVersion": "2.2.0.0.preview.1",
+                      "panelizationSummary": {
+                      "containsEpubBubbles": false,
+                      "containsImageBubbles": false
+                      },
+                      "imageLinks": {
+                      "smallThumbnail": "http://books.google.com/books/content?id=3A-SDZTWGIUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                      "thumbnail": "http://books.google.com/books/content?id=3A-SDZTWGIUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                      },
+                      "language": "en",
+                      "previewLink": "http://books.google.com/books?id=3A-SDZTWGIUC&pg=PA109&dq=html&hl=&cd=10&source=gbs_api",
+                      "infoLink": "http://books.google.com/books?id=3A-SDZTWGIUC&dq=html&hl=&source=gbs_api",
+                      "canonicalVolumeLink": "https://books.google.com/books/about/Mastering_Integrated_HTML_and_CSS.html?hl=&id=3A-SDZTWGIUC"
+                      },
+                      "saleInfo": {
+                      "country": "KE",
+                      "saleability": "NOT_FOR_SALE",
+                      "isEbook": false
+                      },
+                      "accessInfo": {
+                      "country": "KE",
+                      "viewability": "PARTIAL",
+                      "embeddable": true,
+                      "publicDomain": false,
+                      "textToSpeechPermission": "ALLOWED",
+                      "epub": {
+                      "isAvailable": false
+                      },
+                      "pdf": {
+                      "isAvailable": true,
+                      "acsTokenLink": "http://books.google.com/books/download/Mastering_Integrated_HTML_and_CSS-sample-pdf.acsm?id=3A-SDZTWGIUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                      },
+                      "webReaderLink": "http://play.google.com/books/reader?id=3A-SDZTWGIUC&hl=&printsec=frontcover&source=gbs_api",
+                      "accessViewStatus": "SAMPLE",
+                      "quoteSharingAllowed": false
+                      },
+                      "searchInfo": {
+                      "textSnippet": "Look for the Download the Sample <b>html</b> File link. After you have the XHTML page open in the browser, use the browser&#39;s View menu to view the source of the page. You will see the “Swiss army knife” of XHTML pages, ready for multiple uses&nbsp;..."
+                      }
+                      }
       ]
 }
