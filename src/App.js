@@ -7,8 +7,7 @@ import Welcome from "./components/Welcome";
 function App() {
   return (
     <div>
-      <Welcome />
-      {/*<Main />*/}
+      <Main />
     </div>
   );
 }

@@ -1,4 +1,6 @@
 import React from "react";
+import LogIn from "./LogIn";
+import Link from 'react-dom'
 // import Main from "./Main";
 
 function Welcome(){
@@ -11,7 +13,9 @@ function Welcome(){
                 <div className="getstarted">
                     <h2>Learn Now and Master Your Art</h2>
                     <img src="./images/glasses-1052010_1920.jpg" alt=" " />
-                    <p><button id="btn">Read Books</button></p>
+                    <Link to="">
+                        <p><button id="btn">Read Books</button></p>
+                    </Link>
                 </div>
             </div>
 

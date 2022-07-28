@@ -1,0 +1,706 @@
+{
+    "books":[
+        {
+          "kind": "books#volume",
+          "id": "I4C7AAAAIAAJ",
+          "etag": "gnW/1HzzN+0",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/I4C7AAAAIAAJ",
+          "volumeInfo": {
+            "title": "Search and Seizure",
+            "subtitle": "A Statement of the Current Principles and Their Application",
+            "authors": [
+              "California. Office of the Attorney General"
+            ],
+            "publishedDate": "1969",
+            "industryIdentifiers": [
+              {
+                "type": "OTHER",
+                "identifier": "UCAL:B4181724"
+              }
+            ],
+            "readingModes": {
+              "text": false,
+              "image": false
+            },
+            "printType": "BOOK",
+            "categories": [
+              "Searches and seizures"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.2.2.0.preview.0",
+            "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+            },
+            "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=I4C7AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=I4C7AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=I4C7AAAAIAAJ&q=%27+search+%27&dq=%27+search+%27&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=I4C7AAAAIAAJ&dq=%27+search+%27&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Search_and_Seizure.html?hl=&id=I4C7AAAAIAAJ"
+          },
+          "saleInfo": {
+            "country": "KE",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+          },
+          "accessInfo": {
+            "country": "KE",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+              "isAvailable": false
+            },
+            "pdf": {
+              "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=I4C7AAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+            "textSnippet": "Table of Contents — Continued CHAPTER TEN— RULES FOR REASONABLE \u003cb\u003eSEARCHES\u003c/b\u003e Section The \u003cb\u003eSearch\u003c/b\u003e Must Be Reasonable 10.01 General Standard of Reasonableness 10.02 A Question Independent of Officer&#39;s Subjective Intent 10.08 Necessity of&nbsp;..."
+          }
+        },
+        {
+          "kind": "books#volume",
+          "id": "4tlHAQAAIAAJ",
+          "etag": "LZO2hhroWMM",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/4tlHAQAAIAAJ",
+          "volumeInfo": {
+            "title": "Search and Seizure",
+            "authors": [
+              "John Wesley Hall"
+            ],
+            "publishedDate": "1991",
+            "industryIdentifiers": [
+              {
+                "type": "OTHER",
+                "identifier": "STANFORD:36105060054264"
+              }
+            ],
+            "readingModes": {
+              "text": false,
+              "image": false
+            },
+            "printType": "BOOK",
+            "categories": [
+              "Searches and seizures"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.3.1.0.preview.0",
+            "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+            },
+            "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=4tlHAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=4tlHAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=4tlHAQAAIAAJ&q=%27+search+%27&dq=%27+search+%27&hl=&cd=2&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=4tlHAQAAIAAJ&dq=%27+search+%27&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Search_and_Seizure.html?hl=&id=4tlHAQAAIAAJ"
+          },
+          "saleInfo": {
+            "country": "KE",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+          },
+          "accessInfo": {
+            "country": "KE",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+              "isAvailable": false
+            },
+            "pdf": {
+              "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=4tlHAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+            "textSnippet": "The parole or probation officer&#39;s right to conduct a \u003cb\u003esearch\u003c/b\u003e under his supervisory power over his charge does not give carte blanche to all law enforcement officers to come along and invade the individual&#39;s privacy."
+          }
+        },
+        {
+          "kind": "books#volume",
+          "id": "-TwQAQAAMAAJ",
+          "etag": "wcwx7ZQOm3c",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/-TwQAQAAMAAJ",
+          "volumeInfo": {
+            "title": "Principles and Cases of the Law of Arrest, Search, and Seizure",
+            "authors": [
+              "Thomas J. Gardner",
+              "Victor Manian"
+            ],
+            "publisher": "Glencoe/McGraw-Hill School Publishing Company",
+            "publishedDate": "1974",
+            "industryIdentifiers": [
+              {
+                "type": "OTHER",
+                "identifier": "UOM:49015002276112"
+              }
+            ],
+            "readingModes": {
+              "text": false,
+              "image": false
+            },
+            "pageCount": 513,
+            "printType": "BOOK",
+            "categories": [
+              "Law"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.2.1.0.preview.0",
+            "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+            },
+            "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=-TwQAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=-TwQAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=-TwQAQAAMAAJ&q=%27+search+%27&dq=%27+search+%27&hl=&cd=3&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=-TwQAQAAMAAJ&dq=%27+search+%27&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Principles_and_Cases_of_the_Law_of_Arres.html?hl=&id=-TwQAQAAMAAJ"
+          },
+          "saleInfo": {
+            "country": "KE",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+          },
+          "accessInfo": {
+            "country": "KE",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+              "isAvailable": false
+            },
+            "pdf": {
+              "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=-TwQAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+            "textSnippet": "\u003cb\u003esearch\u003c/b\u003e incident to the arrest. Should federal and state officers be working together and the arrest is made by the state officers, the authority to make the \u003cb\u003esearch\u003c/b\u003e is vested in the state officers. The same procedure should be observed&nbsp;..."
+          }
+        },
+        {
+          "kind": "books#volume",
+          "id": "iQBaH9YCPgAC",
+          "etag": "22RHlQAn3sg",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/iQBaH9YCPgAC",
+          "volumeInfo": {
+            "title": "Collaborative Web Search",
+            "subtitle": "Who, What, Where, When, and why",
+            "authors": [
+              "Meredith Ringel Morris",
+              "Jaime Teevan"
+            ],
+            "publisher": "Morgan & Claypool Publishers",
+            "publishedDate": "2010",
+            "description": "Today, Web search is treated as a solitary experience. Web browsers and search engines are typically designed to support a single user, working alone. However, collaboration on information-seeking tasks is actually commonplace. Students work together to complete homework assignments, friends seek information about joint entertainment opportunities, family members jointly plan vacation travel, and colleagues jointly conduct research for their projects. As improved networking technologies and the rise of social media simplify the process of remote collaboration, and large, novel display form-factors simplify the process of co-located group work, researchers have begun to explore ways to facilitate collaboration on search tasks. This lecture investigates the who, what, where, when and why of collaborative search, and gives insight in how emerging solutions can address collaborators' needs. Table of Contents: Introduction / Who? / What? / Where? / When? / Why? / Conclusion: How?",
+            "industryIdentifiers": [
+              {
+                "type": "ISBN_13",
+                "identifier": "9781608451210"
+              },
+              {
+                "type": "ISBN_10",
+                "identifier": "1608451216"
+              }
+            ],
+            "readingModes": {
+              "text": true,
+              "image": true
+            },
+            "pageCount": 85,
+            "printType": "BOOK",
+            "categories": [
+              "Computers"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.0.2.0.preview.3",
+            "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+            },
+            "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=iQBaH9YCPgAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=iQBaH9YCPgAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=iQBaH9YCPgAC&pg=PA1&dq=%27+search+%27&hl=&cd=4&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=iQBaH9YCPgAC&dq=%27+search+%27&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Collaborative_Web_Search.html?hl=&id=iQBaH9YCPgAC"
+          },
+          "saleInfo": {
+            "country": "KE",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+          },
+          "accessInfo": {
+            "country": "KE",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.com/books/download/Collaborative_Web_Search-sample-epub.acsm?id=iQBaH9YCPgAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.com/books/download/Collaborative_Web_Search-sample-pdf.acsm?id=iQBaH9YCPgAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=iQBaH9YCPgAC&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+            "textSnippet": "Web \u003cb\u003esearch\u003c/b\u003e has become one of the prominent information behaviors of the new millennium (Fallows, D., 2008). Web \u003cb\u003esearch\u003c/b\u003e refers not only to the process of entering keywords into a \u003cb\u003esearch\u003c/b\u003e engine site, but it also includes a related ecology&nbsp;..."
+          }
+        },
+        {
+          "kind": "books#volume",
+          "id": "w7wwBQAAQBAJ",
+          "etag": "Z0u56y8qCT4",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/w7wwBQAAQBAJ",
+          "volumeInfo": {
+            "title": "Smart Search",
+            "subtitle": "Quickly and Easily Find What You Need !",
+            "authors": [
+              "EarthNewspapers.com"
+            ],
+            "publisher": "Earth Newspapers.com",
+            "description": "The Book \"Smart Search\" is a collection of search tips and tricks and the main purpose of this book is to give you simple search tricks and methods for finding what you want quickly and easily. This book is perfect for Novice readers but if you are an expert, you also can get at least some good useful tricks. It would help you save your lots of precious time and energy which you can invest in more productive and creative work to enhance your life and income.",
+            "readingModes": {
+              "text": false,
+              "image": true
+            },
+            "pageCount": 40,
+            "printType": "BOOK",
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": true,
+            "contentVersion": "preview-1.0.0",
+            "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+            },
+            "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=w7wwBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=w7wwBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=w7wwBQAAQBAJ&pg=PP9&dq=%27+search+%27&hl=&cd=5&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=w7wwBQAAQBAJ&dq=%27+search+%27&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Smart_Search.html?hl=&id=w7wwBQAAQBAJ"
+          },
+          "saleInfo": {
+            "country": "KE",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+          },
+          "accessInfo": {
+            "country": "KE",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+              "isAvailable": false
+            },
+            "pdf": {
+              "isAvailable": true
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=w7wwBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+            "textSnippet": "Well there are several useful tricks and tools we can use while \u003cb\u003esearching\u003c/b\u003e on Google. These \u003cb\u003esearch\u003c/b\u003e methods are provided by the Google for quick and easy \u003cb\u003esearch\u003c/b\u003e experience. But we never use them often even many of us don&#39;t know about them&nbsp;..."
+          }
+        },
+        {
+          "kind": "books#volume",
+          "id": "_mNtAAAAMAAJ",
+          "etag": "k5klTdUK7mM",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/_mNtAAAAMAAJ",
+          "volumeInfo": {
+            "title": "Search Reference Guide",
+            "publishedDate": "1990",
+            "industryIdentifiers": [
+              {
+                "type": "OTHER",
+                "identifier": "UOM:39015069123126"
+              }
+            ],
+            "readingModes": {
+              "text": false,
+              "image": true
+            },
+            "pageCount": 115,
+            "printType": "BOOK",
+            "categories": [
+              "Database searching"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.1.4.0.full.1",
+            "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+            },
+            "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=_mNtAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=_mNtAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=_mNtAAAAMAAJ&pg=RA2-PA7&dq=%27+search+%27&hl=&cd=6&source=gbs_api",
+            "infoLink": "https://play.google.com/store/books/details?id=_mNtAAAAMAAJ&source=gbs_api",
+            "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_mNtAAAAMAAJ"
+          },
+          "saleInfo": {
+            "country": "KE",
+            "saleability": "FREE",
+            "isEbook": true,
+            "buyLink": "https://play.google.com/store/books/details?id=_mNtAAAAMAAJ&rdid=book-_mNtAAAAMAAJ&rdot=1&source=gbs_api"
+          },
+          "accessInfo": {
+            "country": "KE",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": true,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+              "isAvailable": false,
+              "downloadLink": "http://books.google.com/books/download/Search_Reference_Guide.epub?id=_mNtAAAAMAAJ&hl=&output=epub&source=gbs_api"
+            },
+            "pdf": {
+              "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=_mNtAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+            "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+            "textSnippet": "APPENDIX 3 SAMPLE CHID \u003cb\u003eSEARCH\u003c/b\u003e An example of a CHID \u003cb\u003esearch\u003c/b\u003e using basic BRS commands and the CHID database follows : A medical librarian is asked to identify patient education brochures on the subject of kidney dialysis for use by a&nbsp;..."
+          }
+        },
+        {
+          "kind": "books#volume",
+          "id": "Dx6hBwAAQBAJ",
+          "etag": "nEE1RpRjvso",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/Dx6hBwAAQBAJ",
+          "volumeInfo": {
+            "title": "The Search for Fundamentals",
+            "subtitle": "The Process of Modernisation and the Quest for Meaning",
+            "authors": [
+              "Lieteke van Vucht Tijssen",
+              "Jan Berting",
+              "Frank Lechner"
+            ],
+            "publisher": "Springer Science & Business Media",
+            "publishedDate": "2013-06-29",
+            "description": "Modernity dissolves absolute certainties; late modernity dissolves them absolutely. In the modern world system there appears to be no firm, unchallenged ground on which to construct a meaningful canopy. But around the world, many individuals and groups long for a kind of cultural coherence that they believe once existed. They search for fundamentals. While these may be sought in religious traditions, many also aspire to new secular certainties. In their various new forms and contexts the contemporary quests for meaning in turn transform the societies in which they occur. The rich comparative examples in The Search for Fundamentals are used to analyze the sources and consequences of several cultural movements. The book also offers theoretical reflections on the difficulties they experience and on the message they carry for students of modernity. Audience: A broad readership of scholars and advanced students in the social sciences and humanities.",
+            "industryIdentifiers": [
+              {
+                "type": "ISBN_13",
+                "identifier": "9789401585002"
+              },
+              {
+                "type": "ISBN_10",
+                "identifier": "9401585008"
+              }
+            ],
+            "readingModes": {
+              "text": true,
+              "image": true
+            },
+            "pageCount": 294,
+            "printType": "BOOK",
+            "categories": [
+              "Religion"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.2.2.0.preview.3",
+            "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+            },
+            "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=Dx6hBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=Dx6hBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=Dx6hBwAAQBAJ&pg=PA113&dq=%27+search+%27&hl=&cd=7&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=Dx6hBwAAQBAJ&dq=%27+search+%27&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/The_Search_for_Fundamentals.html?hl=&id=Dx6hBwAAQBAJ"
+          },
+          "saleInfo": {
+            "country": "KE",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+          },
+          "accessInfo": {
+            "country": "KE",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.com/books/download/The_Search_for_Fundamentals-sample-epub.acsm?id=Dx6hBwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.com/books/download/The_Search_for_Fundamentals-sample-pdf.acsm?id=Dx6hBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=Dx6hBwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+            "textSnippet": "\u003cb\u003eSearch\u003c/b\u003e. for. Fundamentals. Introduction. Jan. Berting. Dept. of. Sociology. Erasmus. University. Rotterdam, ... Those questions pertain not only to the \u003cb\u003esearch\u003c/b\u003e for the ultimate meaning of life, but also to that for identity in social and&nbsp;..."
+          }
+        },
+        {
+          "kind": "books#volume",
+          "id": "Nf7sDwAAQBAJ",
+          "etag": "u50Rvez9L7s",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/Nf7sDwAAQBAJ",
+          "volumeInfo": {
+            "title": "Applications of Cuckoo Search Algorithm and its Variants",
+            "authors": [
+              "Nilanjan Dey"
+            ],
+            "publisher": "Springer Nature",
+            "publishedDate": "2020-06-23",
+            "description": "This book highlights the basic concepts of the CS algorithm and its variants, and their use in solving diverse optimization problems in medical and engineering applications. Evolutionary-based meta-heuristic approaches are increasingly being applied to solve complicated optimization problems in several real-world applications. One of the most successful optimization algorithms is the Cuckoo search (CS), which has become an active research area to solve N-dimensional and linear/nonlinear optimization problems using simple mathematical processes. CS has attracted the attention of various researchers, resulting in the emergence of numerous variants of the basic CS with enhanced performance since 2019.",
+            "industryIdentifiers": [
+              {
+                "type": "ISBN_13",
+                "identifier": "9789811551635"
+              },
+              {
+                "type": "ISBN_10",
+                "identifier": "9811551634"
+              }
+            ],
+            "readingModes": {
+              "text": true,
+              "image": true
+            },
+            "pageCount": 324,
+            "printType": "BOOK",
+            "categories": [
+              "Technology & Engineering"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.1.1.0.preview.3",
+            "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+            },
+            "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=Nf7sDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=Nf7sDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=Nf7sDwAAQBAJ&pg=PA232&dq=%27+search+%27&hl=&cd=8&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=Nf7sDwAAQBAJ&dq=%27+search+%27&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Applications_of_Cuckoo_Search_Algorithm.html?hl=&id=Nf7sDwAAQBAJ"
+          },
+          "saleInfo": {
+            "country": "KE",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+          },
+          "accessInfo": {
+            "country": "KE",
+            "viewability": "PARTIAL",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.com/books/download/Applications_of_Cuckoo_Search_Algorithm-sample-epub.acsm?id=Nf7sDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.com/books/download/Applications_of_Cuckoo_Search_Algorithm-sample-pdf.acsm?id=Nf7sDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=Nf7sDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+            "textSnippet": "Metaheuristic \u003cb\u003esearch\u003c/b\u003e algorithms mimic the processes of a broad range of phenomena taking place in nature to establish their solution strategies for handling optimization problems. Genetic Algorithm (GA), which is an evolutionary-based&nbsp;..."
+          }
+        },
+        {
+          "kind": "books#volume",
+          "id": "nOGGDwAAQBAJ",
+          "etag": "bgUN8Nk0jQA",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/nOGGDwAAQBAJ",
+          "volumeInfo": {
+            "title": "Toronto Interactive Restaurant Wine City Search",
+            "subtitle": "Searching in 10 languages",
+            "authors": [
+              "R.G.Richardson"
+            ],
+            "publisher": "RG Richardson",
+            "publishedDate": "2022-01-11",
+            "description": "Toronto Interactive Restaurant Wine City Search-English, French and Chinese Interactive Search Interactive City Guides search using the power of the internet, continuously updated in multiple languages. With 8 search engines and 12,900 links using your browser in over 10 different languages; point and click that's it! You can now avoid spelling mistakes and language difficulties making this guide simple enough for everybody to use. Simply click the icon, your search is done. Read everything you want to know and it is never out of date. These guides have extensive hotel and restaurant search; not to mention real estate, shopping, job and employment opportunities available in the guides. Sit in the coffee shop and start searching away on their WiFi and start using our interactive city search guides and brochures with multiple languages! For PC, Mac, Pad, or iPhone or mobile phone enabled search tool with multi-search engine capability built right in. This guide searches for food, hotels, real estate, historical sites, sports, concerts, even public toilets and water closets and everything that’s fun to do; with travel planning, maps and transportation. Good for tourists, travellers, vacationers, people who have just moved to town, and even long-term residents who want to stay on top of what’s new and current in their area or city. These guides are great for those with disabilities! New updated Interactive Notes and Glossaries for Economics, Financial, Markets, Money and Banking for students and professionals. All guides rolling out in 2022 searching in all languages in Chinese, English, French, German, Spanish, Russian, Arabic, Indian, Portuguese and Japanese! Updated Jan. 2022 R.G. Richardson City Guides using the power of the internet.",
+            "industryIdentifiers": [
+              {
+                "type": "ISBN_13",
+                "identifier": "9781989062920"
+              },
+              {
+                "type": "ISBN_10",
+                "identifier": "198906292X"
+              }
+            ],
+            "readingModes": {
+              "text": true,
+              "image": true
+            },
+            "pageCount": 164,
+            "printType": "BOOK",
+            "categories": [
+              "Travel"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "1.11.10.0.preview.3",
+            "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+            },
+            "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=nOGGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=nOGGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=nOGGDwAAQBAJ&pg=PT2&dq=%27+search+%27&hl=&cd=9&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=nOGGDwAAQBAJ&dq=%27+search+%27&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/Toronto_Interactive_Restaurant_Wine_City.html?hl=&id=nOGGDwAAQBAJ"
+          },
+          "saleInfo": {
+            "country": "KE",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+          },
+          "accessInfo": {
+            "country": "KE",
+            "viewability": "ALL_PAGES",
+            "embeddable": true,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.com/books/download/Toronto_Interactive_Restaurant_Wine_City-sample-epub.acsm?id=nOGGDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "pdf": {
+              "isAvailable": true,
+              "acsTokenLink": "http://books.google.com/books/download/Toronto_Interactive_Restaurant_Wine_City-sample-pdf.acsm?id=nOGGDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=nOGGDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "SAMPLE",
+            "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+            "textSnippet": "This is all about interactive with over 11,900 preset \u003cb\u003esearches\u003c/b\u003e: no more typing! These guides never go out of date due to the power of the internet and are updated annually! Translate in your language through the browser."
+          }
+        },
+        {
+          "kind": "books#volume",
+          "id": "JFs7AAAAMAAJ",
+          "etag": "gg23/W4X8WE",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/JFs7AAAAMAAJ",
+          "volumeInfo": {
+            "title": "User's Guide to Online Searching of SCISEARCH and SOCIAL SCISEARCH",
+            "authors": [
+              "Institute for Scientific Information",
+              "Richard N. Sweet"
+            ],
+            "publishedDate": "1978",
+            "industryIdentifiers": [
+              {
+                "type": "OTHER",
+                "identifier": "UOM:39015016222500"
+              }
+            ],
+            "readingModes": {
+              "text": false,
+              "image": false
+            },
+            "pageCount": 118,
+            "printType": "BOOK",
+            "categories": [
+              "DIALOG (Information retrieval system)"
+            ],
+            "maturityRating": "NOT_MATURE",
+            "allowAnonLogging": false,
+            "contentVersion": "0.3.6.0.preview.0",
+            "panelizationSummary": {
+              "containsEpubBubbles": false,
+              "containsImageBubbles": false
+            },
+            "imageLinks": {
+              "smallThumbnail": "http://books.google.com/books/content?id=JFs7AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+              "thumbnail": "http://books.google.com/books/content?id=JFs7AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.com/books?id=JFs7AAAAMAAJ&q=%27+search+%27&dq=%27+search+%27&hl=&cd=10&source=gbs_api",
+            "infoLink": "http://books.google.com/books?id=JFs7AAAAMAAJ&dq=%27+search+%27&hl=&source=gbs_api",
+            "canonicalVolumeLink": "https://books.google.com/books/about/User_s_Guide_to_Online_Searching_of_SCIS.html?hl=&id=JFs7AAAAMAAJ"
+          },
+          "saleInfo": {
+            "country": "KE",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+          },
+          "accessInfo": {
+            "country": "KE",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+              "isAvailable": false
+            },
+            "pdf": {
+              "isAvailable": false
+            },
+            "webReaderLink": "http://play.google.com/books/reader?id=JFs7AAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+            "textSnippet": "E . If the researcher uses a particular method in her work ask for the citation that SOCIAL SCISEARCH \u003cb\u003esearch\u003c/b\u003e . ( If heavy postings result combine results with one to three title word terms . ) F . Perhaps a requestor knows one or two&nbsp;..."
+          }
+        }
+      ]
+}
