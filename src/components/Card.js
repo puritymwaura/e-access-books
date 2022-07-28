@@ -16,7 +16,7 @@ function Card({book}){
                                     <img src={thumbnail} alt=" " />
                                     <div className="bottom">
                                         <h3 className="title">{item.volumeInfo.title}</h3>
-                                        <p>&#8377;1290</p>
+                                        <p>&#36;{amount}</p>
                                     </div>
                                 </div>
                             </div>
