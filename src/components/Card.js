@@ -1,7 +1,6 @@
-import React from "react"
+import React, { useState } from "react"
 
 function Card({book}){
-    console.log(book);
     return(
         <div>
             {

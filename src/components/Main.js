@@ -1,18 +1,31 @@
 import axios from "axios";
-import React, {useState} from "react";
+import React, {useEffect, useState} from "react";
 import Card from './Card';
 
 function Main(){
+    const [bookData, setData] = useState([]);
     const [search, setSearch] = useState("");
-    const [bookData, setData] = useState([])
 
-    const searchBook=(e)=>{
-        if(e.key==="Enter"){
-            axios.get('https://www.googleapis.com/books/v1/volumes?q='+search+'&key=AIzaSyDQSymXizemH5TzvXnWqZ3lgp1aUslCqlM'+'&maxResults=20')
-            .then(res=>setData(res.data.items))
-            .catch(err=>console.log(err))
-        }
+    function handleSearch(e){
+        setSearch(e.target.value)
     }
+
+    useEffect(()=>{
+        fetch('http://localhost:3004/books')
+        .then(res=>res.json())
+        .then(data=>setData(data))
+    },[]);
+    // const searchBook=(e)=>{
+    //     if(e.key==="Enter"){
+    //         axios.get('http://localhost:3004/books')
+    //         .then(res=>setData(res.data)
+    //         )
+    //         .catch(err=>console.log(err))
+    //     }
+    // }
+    // .filter((item) => item.name.toLowerCase().includes(search.toLowerCase()));
+    // console.log(bookData)
+    const booksfiltered = bookData.filter((book)=>book.volumeInfo.title.toLowerCase().includes(search.toLowerCase()));
     return(
         <div>
             <div className="header">
@@ -22,7 +35,7 @@ function Main(){
                 <div className="row2">
                     <h2>Find Your Book</h2>
                     <div className="search">
-                        <input type="text" placeholder="Enter your Book Name" value={search} onChange={e=>setSearch(e.target.value)} onKeyPress={searchBook} />
+                        <input type="text" placeholder="Enter your Book Name" value={search} onChange={handleSearch} />
                         <button><i className="fas fa-search"></i></button>
                     </div>
                     <img src ="./images/bg2.png" alt=" " />
@@ -31,7 +44,7 @@ function Main(){
 
             <div className="container">
                 {
-                    <Card book ={bookData} />
+                    <Card book={booksfiltered}  />
                 }
             </div>
         </div>

@@ -21,6 +21,24 @@ html{
     font-size: 75.5%;
 }
 
+.navbar{
+    display: flex;
+}
+
+.navbar p{
+    font-size: 25px;
+}
+
+.navbar a{
+    margin-left: 250px;
+    color: var(--secondary-color);
+    margin-top: 10px;
+}
+
+.navbar a:hover{
+    color: mintcream;
+}
+
 .header{
     width: 100%;
     height: 100vh;
@@ -38,7 +56,7 @@ html{
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(./bg1.png);
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(./library-419254_1920.jpg);
     clip-path: circle(60% at left 300px);
     z-index: -1;
 }
@@ -228,7 +246,7 @@ html{
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(./bg1.png);
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(./books-2321934_1920.jpg);
     clip-path: circle(60% at left 300px);
     z-index: -1;
 }
