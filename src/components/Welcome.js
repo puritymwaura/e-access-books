@@ -1,8 +1,4 @@
 import React from "react";
-// import LogIn from "./LogIn";
-// import { NavLink } from "react-router-dom";
-// import Main from "./Main";
-// import { Route } from "react-router-dom";
 
 function Welcome(){
     return(
