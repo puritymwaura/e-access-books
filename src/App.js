@@ -5,6 +5,7 @@ import "./components/style.css";
 import Welcome from "./components/Welcome";
 import { Route, Switch } from "react-router-dom";
 import ReadWelcome from "./components/ReadWelcome";
+import About from "./components/About";
 
 
 function App() {
@@ -17,6 +18,9 @@ function App() {
         </Route>
         <Route exact path="/books">
           <Main />
+        </Route>
+        <Route exact path="/about">
+          <About />
         </Route>
         <Route exact path="/">
           <ReadWelcome />
