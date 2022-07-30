@@ -115,7 +115,7 @@ html{
     margin: 0 auto;
     margin-top: 25px;
     display: grid;
-    grid-template-columns: repeat(3, minmax(200px, 0.5fr));
+    grid-template-columns: repeat(auto-fit, minmax(200px, 0.5fr));
     grid-gap: 20px;
     box-sizing: border-box; 
 }
@@ -283,26 +283,17 @@ html{
     color: var(--secondary-color);
 }
 
-/* 
-.welcome{
-    position: absolute;
-    top: 10px;
-    right: 150px;
-    text-align: center;
+.welcomenote{
+    position: relative;
+    display: flex;
 }
 
-/* .welcome .getstarted{
-    margin-left: 50%;
-} */
-/* 
-.welcome .getstarted h2{
-    font-size: 3rem;
-    margin-top: 20px;
-    margin-bottom: 15px;
+.welcomenote .secta{
+    position: relative;
+    margin: 15px;
 }
-*/
-/*
-.welcome .getstarted img{
-    margin-top: 30px;
-    width: 250px;
-}  */
+
+.welcomenote .sectb img{
+    width: 700px;
+    height: 600px;
+}

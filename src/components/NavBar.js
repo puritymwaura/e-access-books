@@ -6,6 +6,9 @@ function NavBar(){
         <div>
             <div className="navbar">
                 <p>Learn Always</p>
+                <NavLink to="/">
+                    Return
+                </NavLink>
                 <NavLink to="/home">
                     Home
                 </NavLink>

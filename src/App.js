@@ -2,10 +2,10 @@ import React from "react";
 import Main from "./components/Main";
 import NavBar from "./components/NavBar";
 import "./components/style.css";
-import Welcome from "./components/Welcome";
 import { Route, Switch } from "react-router-dom";
 import ReadWelcome from "./components/ReadWelcome";
 import About from "./components/About";
+import Home from "./components/Home";
 
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
       <NavBar />
       <Switch>
         <Route exact path="/home">
-          <Welcome />
+          <Home />
         </Route>
         <Route exact path="/books">
           <Main />
