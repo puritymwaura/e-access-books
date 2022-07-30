@@ -4,6 +4,7 @@ import NavBar from "./components/NavBar";
 import "./components/style.css";
 import Welcome from "./components/Welcome";
 import { Route, Switch } from "react-router-dom";
+import ReadWelcome from "./components/ReadWelcome";
 
 
 function App() {
@@ -16,6 +17,9 @@ function App() {
         </Route>
         <Route exact path="/books">
           <Main />
+        </Route>
+        <Route exact path="/">
+          <ReadWelcome />
         </Route>
       </Switch>
     </div>

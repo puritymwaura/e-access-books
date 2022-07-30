@@ -15,16 +15,6 @@ function Main(){
         .then(res=>res.json())
         .then(data=>setData(data))
     },[]);
-    // const searchBook=(e)=>{
-    //     if(e.key==="Enter"){
-    //         axios.get('http://localhost:3004/books')
-    //         .then(res=>setData(res.data)
-    //         )
-    //         .catch(err=>console.log(err))
-    //     }
-    // }
-    // .filter((item) => item.name.toLowerCase().includes(search.toLowerCase()));
-    // console.log(bookData)
     const booksfiltered = bookData.filter((book)=>book.volumeInfo.title.toLowerCase().includes(search.toLowerCase()));
     return(
         <div>
