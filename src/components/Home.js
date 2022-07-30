@@ -2,7 +2,7 @@ import React from "react";
 
 function Home(){
     return(
-        <div>
+        <div class="container-fluid">
             <div className="welcome">
                 <div className="welcomeText">
                     <h1>Come and Learn <br /> and <br />Make sure You grab a book</h1>

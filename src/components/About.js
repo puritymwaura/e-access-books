@@ -5,7 +5,7 @@ import "./About.css"
 function About(){
     const longText = "We are here to help you find more interesting books and have the best experience of reading and giving more suggestions of books you look forward to finding next time you visit Our site again. We work hard to give You all you need and have fun interacting with Our site"
     return(
-        <div>
+        <div class="container-fluid">
         
             <div className="about">
                 <div className="abouttext">

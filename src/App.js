@@ -10,7 +10,7 @@ import Home from "./components/Home";
 
 function App() {
   return (
-    <div>
+    <div class="container-fluid">
       <NavBar />
       <Switch>
         <Route exact path="/home">

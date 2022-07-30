@@ -2,7 +2,7 @@ import React from "react";
 
 function ReadWelcome(){
     return(
-        <div>
+        <div class="container-fluid">
             <div className="welcomenote">
                 <div className="secta">
                     <h1>Welcome And Be Ready to Learn for the Future awaits for You</h1>

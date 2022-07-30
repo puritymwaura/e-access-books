@@ -26,7 +26,7 @@
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
             "isEbook": false,
-            "listPrice": 122
+            "listPrice": 1229
           },
           "accessInfo": {
             "country": "KE",
@@ -90,7 +90,8 @@
           "saleInfo": {
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "isEbook": false,
+            "listPrice": 1320
           },
           "accessInfo": {
             "country": "KE",
@@ -157,7 +158,8 @@
           "saleInfo": {
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "isEbook": false,
+            "listPrice": 1422
           },
           "accessInfo": {
             "country": "KE",
@@ -230,7 +232,8 @@
           "saleInfo": {
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "isEbook": false,
+            "listPrice": 1529
           },
           "accessInfo": {
             "country": "KE",
@@ -290,7 +293,8 @@
           "saleInfo": {
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "isEbook": false,
+            "listPrice": 992
           },
           "accessInfo": {
             "country": "KE",
@@ -353,7 +357,8 @@
             "country": "KE",
             "saleability": "FREE",
             "isEbook": true,
-            "buyLink": "https://play.google.com/store/books/details?id=_mNtAAAAMAAJ&rdid=book-_mNtAAAAMAAJ&rdot=1&source=gbs_api"
+            "buyLink": "https://play.google.com/store/books/details?id=_mNtAAAAMAAJ&rdid=book-_mNtAAAAMAAJ&rdot=1&source=gbs_api",
+            "listPrice": 2390
           },
           "accessInfo": {
             "country": "KE",
@@ -428,7 +433,8 @@
           "saleInfo": {
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "isEbook": false,
+            "listPrice": 4202
           },
           "accessInfo": {
             "country": "KE",
@@ -501,7 +507,8 @@
           "saleInfo": {
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "isEbook": false,
+            "listPrice": 794
           },
           "accessInfo": {
             "country": "KE",
@@ -575,7 +582,8 @@
           "saleInfo": {
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "isEbook": false,
+            "listPrice": 3212
           },
           "accessInfo": {
             "country": "KE",
@@ -643,7 +651,8 @@
           "saleInfo": {
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "isEbook": false,
+            "listPrice": 1074
           },
           "accessInfo": {
             "country": "KE",
@@ -716,7 +725,8 @@
           "saleInfo": {
           "country": "KE",
           "saleability": "NOT_FOR_SALE",
-          "isEbook": false
+          "isEbook": false,
+          "listPrice": 847
           },
           "accessInfo": {
           "country": "KE",
@@ -789,7 +799,8 @@
           "saleInfo": {
           "country": "KE",
           "saleability": "NOT_FOR_SALE",
-          "isEbook": false
+          "isEbook": false,
+          "listPrice": 2020
           },
           "accessInfo": {
           "country": "KE",
@@ -862,7 +873,8 @@
           "saleInfo": {
           "country": "KE",
           "saleability": "NOT_FOR_SALE",
-          "isEbook": false
+          "isEbook": false,
+          "listPrice": 3209
           },
           "accessInfo": {
           "country": "KE",
@@ -938,7 +950,8 @@
           "saleInfo": {
           "country": "KE",
           "saleability": "NOT_FOR_SALE",
-          "isEbook": false
+          "isEbook": false,
+          "listPrice": 874
           },
           "accessInfo": {
           "country": "KE",
@@ -1011,7 +1024,8 @@
           "saleInfo": {
           "country": "KE",
           "saleability": "NOT_FOR_SALE",
-          "isEbook": false
+          "isEbook": false,
+          "listPrice": 435
           },
           "accessInfo": {
           "country": "KE",
@@ -1080,7 +1094,8 @@
           "saleInfo": {
           "country": "KE",
           "saleability": "NOT_FOR_SALE",
-          "isEbook": false
+          "isEbook": false,
+          "listPrice": 2205
           },
           "accessInfo": {
           "country": "KE",
@@ -1144,7 +1159,8 @@
           "saleInfo": {
           "country": "KE",
           "saleability": "NOT_FOR_SALE",
-          "isEbook": false
+          "isEbook": false,
+          "listPrice": 1243
           },
           "accessInfo": {
           "country": "KE",
@@ -1220,7 +1236,8 @@
           "saleInfo": {
           "country": "KE",
           "saleability": "NOT_FOR_SALE",
-          "isEbook": false
+          "isEbook": false,
+          "listPrice": 1529
           },
           "accessInfo": {
           "country": "KE",
@@ -1297,7 +1314,8 @@
           "saleInfo": {
           "country": "KE",
           "saleability": "NOT_FOR_SALE",
-          "isEbook": false
+          "isEbook": false,
+          "listPrice": 220
           },
           "accessInfo": {
           "country": "KE",
@@ -1383,7 +1401,8 @@
           "publicDomain": false,
           "textToSpeechPermission": "ALLOWED",
           "epub": {
-          "isAvailable": false
+          "isAvailable": false,
+          "listPrice": 523
           },
           "pdf": {
           "isAvailable": true,
@@ -1451,7 +1470,8 @@
             "saleInfo": {
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "isEbook": false,
+            "listPrice": 630
             },
             "accessInfo": {
             "country": "KE",
@@ -1524,7 +1544,8 @@
             "saleInfo": {
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "isEbook": false,
+            "listPrice": 732
             },
             "accessInfo": {
             "country": "KE",
@@ -1600,7 +1621,8 @@
             "saleInfo": {
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "isEbook": false,
+            "listPrice": 100
             },
             "accessInfo": {
             "country": "KE",
@@ -1676,7 +1698,8 @@
             "saleInfo": {
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "isEbook": false,
+            "listPrice": 606
             },
             "accessInfo": {
             "country": "KE",
@@ -1750,7 +1773,8 @@
             "saleInfo": {
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "isEbook": false,
+            "listPrice": 208
             },
             "accessInfo": {
             "country": "KE",
@@ -1828,7 +1852,8 @@
             "saleInfo": {
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "isEbook": false,
+            "listPrice": 492
             },
             "accessInfo": {
             "country": "KE",
@@ -1897,7 +1922,8 @@
             "saleInfo": {
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "isEbook": false,
+            "listPrice": 690
             },
             "accessInfo": {
             "country": "KE",
@@ -1969,7 +1995,8 @@
             "saleInfo": {
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "isEbook": false,
+            "listPrice": 1490
             },
             "accessInfo": {
             "country": "KE",
@@ -2041,7 +2068,8 @@
             "saleInfo": {
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "isEbook": false,
+            "listPrice": 683
             },
             "accessInfo": {
             "country": "KE",
@@ -2116,7 +2144,8 @@
             "saleInfo": {
             "country": "KE",
             "saleability": "NOT_FOR_SALE",
-            "isEbook": false
+            "isEbook": false,
+            "listPrice": 2428
             },
             "accessInfo": {
             "country": "KE",
@@ -2187,7 +2216,8 @@
               "saleInfo": {
               "country": "KE",
               "saleability": "NOT_FOR_SALE",
-              "isEbook": false
+              "isEbook": false,
+              "listPrice": 3242
               },
               "accessInfo": {
               "country": "KE",
@@ -2261,7 +2291,8 @@
               "saleInfo": {
               "country": "KE",
               "saleability": "NOT_FOR_SALE",
-              "isEbook": false
+              "isEbook": false,
+              "listPrice": 893
               },
               "accessInfo": {
               "country": "KE",
@@ -2336,7 +2367,8 @@
               "saleInfo": {
               "country": "KE",
               "saleability": "NOT_FOR_SALE",
-              "isEbook": false
+              "isEbook": false,
+              "listPrice": 500
               },
               "accessInfo": {
               "country": "KE",
@@ -2411,7 +2443,8 @@
               "saleInfo": {
               "country": "KE",
               "saleability": "NOT_FOR_SALE",
-              "isEbook": false
+              "isEbook": false,
+              "listPrice": 453
               },
               "accessInfo": {
               "country": "KE",
@@ -2478,7 +2511,8 @@
               "saleInfo": {
               "country": "KE",
               "saleability": "NOT_FOR_SALE",
-              "isEbook": false
+              "isEbook": false,
+              "listPrice": 724
               },
               "accessInfo": {
               "country": "KE",
@@ -2555,7 +2589,8 @@
               "saleInfo": {
               "country": "KE",
               "saleability": "NOT_FOR_SALE",
-              "isEbook": false
+              "isEbook": false,
+              "listPrice": 502
               },
               "accessInfo": {
               "country": "KE",
@@ -2624,7 +2659,8 @@
               "saleInfo": {
               "country": "KE",
               "saleability": "NOT_FOR_SALE",
-              "isEbook": false
+              "isEbook": false,
+              "listPrice": 792
               },
               "accessInfo": {
               "country": "KE",
@@ -2699,7 +2735,8 @@
               "saleInfo": {
               "country": "KE",
               "saleability": "NOT_FOR_SALE",
-              "isEbook": false
+              "isEbook": false,
+              "listPrice": 2605
               },
               "accessInfo": {
               "country": "KE",
@@ -2768,6 +2805,7 @@
               "country": "KE",
               "saleability": "FREE",
               "isEbook": true,
+              "listPrice": 3000,
               "buyLink": "https://play.google.com/store/books/details?id=O6uEAAAAIAAJ&rdid=book-O6uEAAAAIAAJ&rdot=1&source=gbs_api"
               },
               "accessInfo": {
@@ -2844,7 +2882,8 @@
               "saleInfo": {
               "country": "KE",
               "saleability": "NOT_FOR_SALE",
-              "isEbook": false
+              "isEbook": false,
+              "listPrice": 1047
               },
               "accessInfo": {
               "country": "KE",
@@ -2917,7 +2956,8 @@
                 "saleInfo": {
                 "country": "KE",
                 "saleability": "NOT_FOR_SALE",
-                "isEbook": false
+                "isEbook": false,
+                "listPrice": 1250
                 },
                 "accessInfo": {
                 "country": "KE",
@@ -2993,7 +3033,8 @@
                 "saleInfo": {
                 "country": "KE",
                 "saleability": "NOT_FOR_SALE",
-                "isEbook": false
+                "isEbook": false,
+                "listPrice": 542
                 },
                 "accessInfo": {
                 "country": "KE",
@@ -3063,7 +3104,8 @@
                 "saleInfo": {
                 "country": "KE",
                 "saleability": "NOT_FOR_SALE",
-                "isEbook": false
+                "isEbook": false,
+                "listPrice": 100
                 },
                 "accessInfo": {
                 "country": "KE",
@@ -3138,7 +3180,8 @@
                 "saleInfo": {
                 "country": "KE",
                 "saleability": "NOT_FOR_SALE",
-                "isEbook": false
+                "isEbook": false,
+                "listPrice": 632
                 },
                 "accessInfo": {
                 "country": "KE",
@@ -3209,7 +3252,8 @@
                 "saleInfo": {
                 "country": "KE",
                 "saleability": "NOT_FOR_SALE",
-                "isEbook": false
+                "isEbook": false,
+                "listPrice": 963
                 },
                 "accessInfo": {
                 "country": "KE",
@@ -3279,7 +3323,8 @@
                 "saleInfo": {
                 "country": "KE",
                 "saleability": "NOT_FOR_SALE",
-                "isEbook": false
+                "isEbook": false,
+                "listPrice": 2370
                 },
                 "accessInfo": {
                 "country": "KE",
@@ -3345,7 +3390,8 @@
                 "saleInfo": {
                 "country": "KE",
                 "saleability": "NOT_FOR_SALE",
-                "isEbook": false
+                "isEbook": false,
+                "listPrice": 1265
                 },
                 "accessInfo": {
                 "country": "KE",
@@ -3419,7 +3465,8 @@
                 "saleInfo": {
                 "country": "KE",
                 "saleability": "NOT_FOR_SALE",
-                "isEbook": false
+                "isEbook": false,
+                "listPrice": 1000
                 },
                 "accessInfo": {
                 "country": "KE",
@@ -3495,7 +3542,8 @@
                 "saleInfo": {
                 "country": "KE",
                 "saleability": "NOT_FOR_SALE",
-                "isEbook": false
+                "isEbook": false,
+                "listPrice": 826
                 },
                 "accessInfo": {
                 "country": "KE",
@@ -3571,7 +3619,8 @@
                 "saleInfo": {
                 "country": "KE",
                 "saleability": "NOT_FOR_SALE",
-                "isEbook": false
+                "isEbook": false,
+                "listPrice": 272
                 },
                 "accessInfo": {
                 "country": "KE",
@@ -3642,7 +3691,8 @@
                   "saleInfo": {
                   "country": "KE",
                   "saleability": "NOT_FOR_SALE",
-                  "isEbook": false
+                  "isEbook": false,
+                  "listPrice": 359
                   },
                   "accessInfo": {
                   "country": "KE",
@@ -3717,7 +3767,8 @@
                   "saleInfo": {
                   "country": "KE",
                   "saleability": "NOT_FOR_SALE",
-                  "isEbook": false
+                  "isEbook": false,
+                  "listPrice": 723
                   },
                   "accessInfo": {
                   "country": "KE",
@@ -3794,7 +3845,8 @@
                   "saleInfo": {
                   "country": "KE",
                   "saleability": "NOT_FOR_SALE",
-                  "isEbook": false
+                  "isEbook": false,
+                  "listPrice": 934
                   },
                   "accessInfo": {
                   "country": "KE",
@@ -3870,7 +3922,8 @@
                   "saleInfo": {
                   "country": "KE",
                   "saleability": "NOT_FOR_SALE",
-                  "isEbook": false
+                  "isEbook": false,
+                  "listPrice": 729
                   },
                   "accessInfo": {
                   "country": "KE",
@@ -3947,7 +4000,8 @@
                   "saleInfo": {
                   "country": "KE",
                   "saleability": "NOT_FOR_SALE",
-                  "isEbook": false
+                  "isEbook": false,
+                  "listPrice": 2531
                   },
                   "accessInfo": {
                   "country": "KE",
@@ -4004,7 +4058,8 @@
                   "saleInfo": {
                   "country": "KE",
                   "saleability": "NOT_FOR_SALE",
-                  "isEbook": false
+                  "isEbook": false,
+                  "listPrice": 3200
                   },
                   "accessInfo": {
                   "country": "KE",
@@ -4073,7 +4128,8 @@
                   "saleInfo": {
                   "country": "KE",
                   "saleability": "NOT_FOR_SALE",
-                  "isEbook": false
+                  "isEbook": false,
+                  "listPrice": 420
                   },
                   "accessInfo": {
                   "country": "KE",
@@ -4148,7 +4204,8 @@
                   "saleInfo": {
                   "country": "KE",
                   "saleability": "NOT_FOR_SALE",
-                  "isEbook": false
+                  "isEbook": false,
+                  "listPrice": 893
                   },
                   "accessInfo": {
                   "country": "KE",
@@ -4224,7 +4281,8 @@
                   "saleInfo": {
                   "country": "KE",
                   "saleability": "NOT_FOR_SALE",
-                  "isEbook": false
+                  "isEbook": false,
+                  "listPrice": 622
                   },
                   "accessInfo": {
                   "country": "KE",
@@ -4299,7 +4357,8 @@
                   "saleInfo": {
                   "country": "KE",
                   "saleability": "NOT_FOR_SALE",
-                  "isEbook": false
+                  "isEbook": false,
+                  "listPrice": 3215
                   },
                   "accessInfo": {
                   "country": "KE",
@@ -4372,7 +4431,8 @@
                     "saleInfo": {
                     "country": "KE",
                     "saleability": "NOT_FOR_SALE",
-                    "isEbook": false
+                    "isEbook": false,
+                    "listPrice": 528
                     },
                     "accessInfo": {
                     "country": "KE",
@@ -4442,7 +4502,8 @@
                     "saleInfo": {
                     "country": "KE",
                     "saleability": "NOT_FOR_SALE",
-                    "isEbook": false
+                    "isEbook": false,
+                    "listPrice": 1539
                     },
                     "accessInfo": {
                     "country": "KE",
@@ -4514,7 +4575,8 @@
                     "saleInfo": {
                     "country": "KE",
                     "saleability": "NOT_FOR_SALE",
-                    "isEbook": false
+                    "isEbook": false,
+                    "listPrice": 1248
                     },
                     "accessInfo": {
                     "country": "KE",
@@ -4588,7 +4650,8 @@
                     "saleInfo": {
                     "country": "KE",
                     "saleability": "NOT_FOR_SALE",
-                    "isEbook": false
+                    "isEbook": false,
+                    "listPrice": 900
                     },
                     "accessInfo": {
                     "country": "KE",
@@ -4659,7 +4722,8 @@
                     "saleInfo": {
                     "country": "KE",
                     "saleability": "NOT_FOR_SALE",
-                    "isEbook": false
+                    "isEbook": false,
+                    "listPrice": 632
                     },
                     "accessInfo": {
                     "country": "KE",
@@ -4733,7 +4797,8 @@
                     "saleInfo": {
                     "country": "KE",
                     "saleability": "NOT_FOR_SALE",
-                    "isEbook": false
+                    "isEbook": false,
+                    "listPrice": 321
                     },
                     "accessInfo": {
                     "country": "KE",
@@ -4808,7 +4873,8 @@
                     "saleInfo": {
                     "country": "KE",
                     "saleability": "NOT_FOR_SALE",
-                    "isEbook": false
+                    "isEbook": false,
+                    "listPrice": 2910
                     },
                     "accessInfo": {
                     "country": "KE",
@@ -4883,7 +4949,8 @@
                     "saleInfo": {
                     "country": "KE",
                     "saleability": "NOT_FOR_SALE",
-                    "isEbook": false
+                    "isEbook": false,
+                    "listPrice": 890
                     },
                     "accessInfo": {
                     "country": "KE",
@@ -4953,7 +5020,8 @@
                     "saleInfo": {
                     "country": "KE",
                     "saleability": "NOT_FOR_SALE",
-                    "isEbook": false
+                    "isEbook": false,
+                    "listPrice": 603
                     },
                     "accessInfo": {
                     "country": "KE",
@@ -5025,7 +5093,8 @@
                     "saleInfo": {
                     "country": "KE",
                     "saleability": "NOT_FOR_SALE",
-                    "isEbook": false
+                    "isEbook": false,
+                    "listPrice": 2720
                     },
                     "accessInfo": {
                     "country": "KE",
@@ -5098,7 +5167,8 @@
                       "saleInfo": {
                       "country": "KE",
                       "saleability": "NOT_FOR_SALE",
-                      "isEbook": false
+                      "isEbook": false,
+                      "listPrice": 402
                       },
                       "accessInfo": {
                       "country": "KE",
@@ -5170,7 +5240,8 @@
                       "saleInfo": {
                       "country": "KE",
                       "saleability": "NOT_FOR_SALE",
-                      "isEbook": false
+                      "isEbook": false,
+                      "listPrice": 1200
                       },
                       "accessInfo": {
                       "country": "KE",
@@ -5222,7 +5293,8 @@
                       "saleInfo": {
                       "country": "KE",
                       "saleability": "NOT_FOR_SALE",
-                      "isEbook": false
+                      "isEbook": false,
+                      "listPrice": 561
                       },
                       "accessInfo": {
                       "country": "KE",
@@ -5293,7 +5365,8 @@
                       "saleInfo": {
                       "country": "KE",
                       "saleability": "NOT_FOR_SALE",
-                      "isEbook": false
+                      "isEbook": false,
+                      "listPrice": 1045
                       },
                       "accessInfo": {
                       "country": "KE",
@@ -5348,7 +5421,8 @@
                       "saleInfo": {
                       "country": "KE",
                       "saleability": "NOT_FOR_SALE",
-                      "isEbook": false
+                      "isEbook": false,
+                      "listPrice": 639
                       },
                       "accessInfo": {
                       "country": "KE",
@@ -5417,7 +5491,8 @@
                       "saleInfo": {
                       "country": "KE",
                       "saleability": "NOT_FOR_SALE",
-                      "isEbook": false
+                      "isEbook": false,
+                      "listPrice": 722
                       },
                       "accessInfo": {
                       "country": "KE",
@@ -5486,7 +5561,8 @@
                       "saleInfo": {
                       "country": "KE",
                       "saleability": "NOT_FOR_SALE",
-                      "isEbook": false
+                      "isEbook": false,
+                      "listPrice": 526
                       },
                       "accessInfo": {
                       "country": "KE",
@@ -5559,7 +5635,8 @@
                       "saleInfo": {
                       "country": "KE",
                       "saleability": "NOT_FOR_SALE",
-                      "isEbook": false
+                      "isEbook": false,
+                      "listPrice": 4571
                       },
                       "accessInfo": {
                       "country": "KE",
@@ -5630,7 +5707,8 @@
                       "saleInfo": {
                       "country": "KE",
                       "saleability": "NOT_FOR_SALE",
-                      "isEbook": false
+                      "isEbook": false,
+                      "listPrice": 6127
                       },
                       "accessInfo": {
                       "country": "KE",
@@ -5706,7 +5784,8 @@
                       "saleInfo": {
                       "country": "KE",
                       "saleability": "NOT_FOR_SALE",
-                      "isEbook": false
+                      "isEbook": false,
+                      "listPrice": 622
                       },
                       "accessInfo": {
                       "country": "KE",

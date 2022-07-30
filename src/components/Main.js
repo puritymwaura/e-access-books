@@ -16,7 +16,7 @@ function Main(){
     },[]);
     const booksfiltered = bookData.filter((book)=>book.volumeInfo.title.toLowerCase().includes(search.toLowerCase()));
     return(
-        <div>
+        <div class="container-fluid">
             <div className="header">
                 <div className="row1">
                     <h1>There's no limit to knowledge gaining <br />Grab a Book Now and Read</h1>
