@@ -23,7 +23,7 @@ function About(){
                     </ReactReadMoreReadLess>
                 </div>
                 <div className="aboutimage">
-                    <img src="./images/bg1.png" alt=" " />
+                    <img src="./images/glasses-1052010_1920.jpg" alt=" " />
                 </div>
             </div>
         </div>

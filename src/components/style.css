@@ -272,6 +272,8 @@ html{
 }
 
 .welcome .getstarted button{
+    margin-top: 20px;
+    margin-left: -125px;
     border: none;
     outline: none;
     cursor: pointer;
