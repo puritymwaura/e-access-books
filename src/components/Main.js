@@ -10,7 +10,7 @@ function Main(){
     }
 
     useEffect(()=>{
-        fetch('http://localhost:3004/books')
+        fetch('https://modern-aged-condor.glitch.me/books')
         .then(res=>res.json())
         .then(data=>setData(data))
     },[]);
