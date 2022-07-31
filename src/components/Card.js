@@ -26,7 +26,7 @@ function Card({book}){
                                     <img src={thumbnail} alt=" " />
                                     <div className="bottom">
                                         <h3 className="title">{item.volumeInfo.title}</h3>
-                                        <p>&#36;{amount}</p>
+                                        <p className="amount">&#36;{amount}</p>
                                     </div>
                                 </div>
                                 <Modal show={show} item={bookItem} onClose={()=>setShow(false)} />
