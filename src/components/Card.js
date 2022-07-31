@@ -1,7 +1,9 @@
-import React, { useState } from "react"
+import React, {useState} from "react"
+import Modal from "./Modal";
 
 function Card({book}){
-    
+    const [show,setShow]= useState(false)
+    const [bookItem,setItem]=useState()
     return(
         <div class="row mt-2 g-1 container-fluid">
             {
@@ -20,13 +22,14 @@ function Card({book}){
            
                             // </div>
                             <div>
-                                <div className="card">
+                                <div className="card" onClick={()=>{setShow(true);setItem(item)}}>
                                     <img src={thumbnail} alt=" " />
                                     <div className="bottom">
                                         <h3 className="title">{item.volumeInfo.title}</h3>
                                         <p>&#36;{amount}</p>
                                     </div>
                                 </div>
+                                <Modal show={show} item={bookItem} onClose={()=>setShow(false)} />
                             </div>
                         )
                     }
