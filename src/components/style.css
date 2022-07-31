@@ -109,7 +109,9 @@ html{
     height: 35px;
     padding: 0 0.5rem;
 }
-
+.container{
+    margin-top: 30px;
+}
 
 .card{
     background: var(--secondary-color);
