@@ -103,6 +103,10 @@ html{
     font-weight: bold;
 }
 
+.row2 .search input[type="text"]{
+    color: #000;
+}
+
 .row2 .search button{
     outline: none;
     border: none;
